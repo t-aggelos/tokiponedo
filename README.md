@@ -27,13 +27,16 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - paweru(v) = to work, to struggle (look at preverb `pawa`)
 - moku(v) = to consume, to drink.
 - taweru(v) = to move, to stride, walk (look at preverb `pawa`)
+- taneru(v) = to start, to begin, to initiate.
 - jeweru(v) = to corrupt, to decay. 
 - poneru(v) = to improve, to "goodify", to make better.
 - toku(v) = to speak, to say, to communicate.
+- rukoru(v) = to continue.
+- iworu(v) = to use, to apply.
 ---
 - jewo(n) = disaster, evil, calamity, insensitive.
 - ja(n) = sun.
-- tan(n) = start, beginning, origin.
+- tan(n) = origin, start, beginning
 - kowa(n) = moon, luna.
 - sije(n) = body, figure, shape; stature.
 - tenpo(n) = time, moment, period, duration.
@@ -60,6 +63,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - penomena(n) = phenomenon, effect.
 - epi(n) = above, upwards, up; roughly meaning "on"
 - upo(n) = under, below, beneath; roughly meaning the inverse of "on"
+- kon(n) = air, atmosphere,
+- ruko(n) = continuity, infinity
 
 ## Pronouns
 Singular
@@ -78,8 +83,14 @@ Pronouns can also become *possessive*, but we'll look into that later.
  Preverbs are a tough nut to crack, they're mostly a toki pona relic. They don't really have any semantic meaning other than they follow the inverse pattern we know: they go before a verb than after it, and transform it.
 ### The preverb `kama`
 `kama` indicates that the predicate **will become** true, that it was previously **not** doing.
-"`mi wi kama paweru o ijo`" simply means that you are will start creating the thing, but you were previously not doing. 
-- `mi wi kama konju o ni` = literally "me "arriving to chasing this" = "I **will** be following this"
+- `mi wi kama paweru o ijo` = "i will make the thing" (you were previously not making the thing). 
+- `mi wi kama konju o ni` = literally "me "arriving to chasing this" = "I **will** be following this".
+### The preverb `tana`
+`tana` indicates that the predicate **had started** to be true, that it was doing in the past.
+-
+### The preverb `ruka`
+`ruka` indicates that the predicate *is continuing*, that it has been doing. It is analogous to the continuous auxiliary verb "been". ruka is almost exclusively placed last of the preverbs. For instance,
+- `mi wi kama ruka paweru o ijo` = "I will be working the thing".
 ## Particles
 *Particles* are words that have usually have no meaning, and only or primarily have grammatical functions.
 #### The particle `na` 
@@ -106,7 +117,7 @@ It is analogous to "this", "that"; It is the demonstrative particle.  Out of all
 - `wi` separates the subject from the predicate
 - `wa` context marker.
 
-`wi` makes what's before it the "subject", and what's after it the **predicate**. We do not really have a clear and seperate "subject-object" pattern, but rather, we have a part of the sentence which indicates what the subject **does** or what happens to it. Some sentences may not need this distinction at all, like for instance:
+`wi` makes what's before it the "subject", and what's after it the **predicate**. We do not really have a clear cut "is" in this tokiopnedo. But rather, we have a part of the sentence which indicates what the subject **does** or what happens to it. Then, Some sentences may not need this distinction at all, like for instance:
 - `ni jo mi` = "this of me" = "this is mine".
 - `ni wi jo mi` would mean "this is/has possessiveness **me**" = *it possess me.*
 
@@ -136,6 +147,9 @@ Being a derivative of `iwo`, it describes the usage. It is analogous to saying "
 - `onai wi taweru o si iwa suko` = "They're moving you using a mushroom".
 - `onai wi taweru o ijo ni tawa si iwa suko` = "They're moving this thing towards you using a mushroom".
 - `onai wi taweru o seme?` = "What are they moving?"
+### The preposition `tane`
+Being a derivative of `tan`, it means to originate from. It it similarly used to the toki pona equivelant `tan`. For instance:
+- `onai tane england` = "they are from england".
 ## Sentence Structure
 Now to provide more info on the sentence structure, it's *almost* like toki pona's. a sentence could be: 
 `{ [(A|<preposition>|<sentence>|)]* wa B wi [<preverb>]* o C [kin D]* [<preposition>]* }`. Where,
@@ -158,7 +172,7 @@ Additionally, There are some "phono-tactic" rules when we are *mutating* a word.
 **if we are making a noun a verb**:
 
 1. if the second to last syllable contains an "`a`" it becomes an `e`.
-2. if the last syllable starts with `ra`, then the vowel of the syllable becomes an "`u`"
+2. if the last syllable starts with consonant `r`, then the vowel of the syllable becomes an "`u`"
 3. if the last syllable's consonant isn't j or r, you append "`-ru`"
 
 This way most verbs would end in `ru` or `ju`. you can see this with the following examples:
