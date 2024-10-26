@@ -95,14 +95,14 @@ It roughly translates into "into at". It’s a locative particle that marks *bot
 #### The particle `jo` 
 It roughly translates to "own, possess, have"; It is the possessive particle, indicating ownership. For example,
 - `ijo ni jo mi` = "This thing is mine".
-- `jan Anjo jo tomo` = "Anjo's house"
+- `tomo jo jan Anjo` = "Anjo's house"
 #### The particle `ni` 
 It is analogous to "this", "that"; It is the demonstrative particle.  Out of all particles discussed, it is important to understand that `ni` is used for various purposes
 - as a "that/this/there/those" (`jan ni wi seme?)` = "who is it".
 - to demonstrate emphasis, like saying "this thing here" (`ijo ni`)
 
 ### Marker particles
-- `o` denotes the direct object; [direct object marker]
+- `o` denotes the direct object; it is the "direct object" marker
 - `wi` separates the subject from the predicate
 - `wa` context marker.
 
