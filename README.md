@@ -55,7 +55,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - sujo(n) = flora, vegetation, plant, growth, flourishing.
 - mama(n) = mother, mother figure.
 - toki(n) = speech, language; very rarely referring to a sentence by  "saying".
-- papa(n) = daddy, father figure.
+- papa(n) = father, father figure.
 - pona(n) = good, great, nice.
 - penomena(n) = phenomenon, effect.
 - epi(n) = above, upwards, up; roughly meaning "on"
