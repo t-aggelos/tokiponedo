@@ -22,7 +22,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - suju(v) = to grow, flourish, flower.
 - ru(v) = to act, to do.
 - kiweru(v) = to harden, to toughen.
-- awenru(v) = to keep, to protect.
+- aweru(v) = to keep, to protect.
 - kameru(v) = to arrive, to approach
 - paweru(v) = to work, to struggle (look at preverb `pawa`)
 - moku(v) = to consume, to drink.
@@ -40,8 +40,9 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - kowa(n) = moon, luna.
 - sije(n) = body, figure, shape; stature.
 - tenpo(n) = time, moment, period, duration.
-- awe(n) = all, everything. 
+- awi(n) = all, everything. 
 - jan(n) = person, human being.
+- piwi(n) = preference, choice,
 - kan(n) = stem, base, trunk.
 - kamo(n) = destination, end point, arrival point.
 - mewi(n) = woman, female human.
@@ -85,20 +86,22 @@ Pronouns can also become *possessive*, but we'll look into that later.
 `kama` indicates that the predicate **will become** true, that it was previously **not** doing.
 - `mi wi kama paweru o ijo` = "i will make the thing" (you were previously not making the thing). 
 - `mi wi kama konju o ni` = literally "me "arriving to chasing this" = "I **will** be following this".
-### The preverb `tana`
-`tana` indicates that the predicate **had started** to be true, that it was doing in the past.
--
 ### The preverb `ruka`
 `ruka` indicates that the predicate *is continuing*, that it has been doing. It is analogous to the continuous auxiliary verb "been". ruka is almost exclusively placed last of the preverbs. For instance,
 - `mi wi kama ruka paweru o ijo` = "I will be working the thing".
+### The preverb `tana`
+`tana` indicates that the predicate **had started** to be true, that it was doing in the past.
+- `mi tana ruka taweru o soweri` = "I had been moving the animal".
 ## Particles
 *Particles* are words that have usually have no meaning, and only or primarily have grammatical functions.
 #### The particle `na` 
 It is the negation particle and denotes "not". For example in 
 -  mi wi ru **na** o ni. (I am **not** doing that)
-#### The particle  `ne` 
-It links subjects and objects. For example,
+#### The particles `ne` and `nu` 
+It links subjects and objects, functioning like the english `and`. For example,
 - `mi ne si wi taweru o tomo` = "me and you go to the house"
+Meanwhile, `nu` functions like `or`, seperating the multiple possibilities.
+- `
 #### The particle  `ron` 
 It roughly translates into "into at". It’s a locative particle that marks *both* space and time. In other words, it can refer to a specific place **in space** or a specific moment **in time**. For example,
 - `mi ne si ron tomo` = "me and you (are/at) the house." 
@@ -114,8 +117,7 @@ It is analogous to "this", "that"; It is the demonstrative particle.  Out of all
 
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker
-- `wi` separates the subject from the predicate
-- `wa` context marker.
+- `wa` links two sentences, where the latter is causally linked to the former. In simpler terms, for A and B. `A wa B` means "Because/in the context of A, B."
 
 `wi` makes what's before it the "subject", and what's after it the **predicate**. We do not really have a clear cut "is" in this tokiopnedo. But rather, we have a part of the sentence which indicates what the subject **does** or what happens to it. Then, Some sentences may not need this distinction at all, like for instance:
 - `ni jo mi` = "this of me" = "this is mine".
@@ -128,9 +130,9 @@ Therefore, You should not think of "`wi`" as is, but as a "logical separator" of
 - `si wi ru seme?` = "you're doing what?" (**ru is the verb meaning "to do"**)
 - `seme wi Anjo` = "what(subject) is Anjo?" = "Who's Anjo?" 
 - `jan seme ni` = "what man this" ?
-## Prepositions
-Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
-### The preposition `tawa`
+## Juxtaposition
+Juxtapositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
+### The juxtaposition `tawa`
 Being a derivative of `taweru`(to move) it describes movement towards a specific object. For example,
 - `mi wi taweru o ijo tawa si` = "I am moving the thing **to** you"
 - `ijo wi tawa si` = "the thing is moving **towards** you".
@@ -142,17 +144,17 @@ Notice how, if we were to introduce `o` the meaning would change:
 
 Remember: This would have a completely different meaning if we said `ijo wi taweru o si`. As that would mean "the thing is moving **you**". This is because `o` marks the direct object(the recipient of the action).
 Therefore, the exact meaning of `tawa` depends on its usage.
-### The preposition `iwa`
+### The juxtaposition `iwe`
 Being a derivative of `iwo`, it describes the usage. It is analogous to saying "using" in English but with a different twist. For instance:
-- `onai wi taweru o si iwa suko` = "They're moving you using a mushroom".
-- `onai wi taweru o ijo ni tawa si iwa suko` = "They're moving this thing towards you using a mushroom".
-- `onai wi taweru o seme?` = "What are they moving?"
-### The preposition `tane`
+- `onai taweru o si iwe suko` = "They're moving you using a mushroom".
+- `onai taweru o ijo ni tawa si iwe suko` = "They're moving this thing towards you using a mushroom".
+- `onai taweru o seme?` = "What are they moving?"
+### The juxtaposition `tane`
 Being a derivative of `tan`, it means to originate from. It it similarly used to the toki pona equivelant `tan`. For instance:
-- `onai tane england` = "they are from england".
+- `onai tane inli` = "they are from england".
 ## Sentence Structure
 Now to provide more info on the sentence structure, it's *almost* like toki pona's. a sentence could be: 
-`{ [(A|<preposition>|<sentence>|)]* wa B wi [<preverb>]* o C [kin D]* [<preposition>]* }`. Where,
+`{ [(A|<preposition>|<sentence>|)]* wa B [<preverb> <verb>]* o C [kin D]* [<juxtaposition>]* }`. Where,
 - `<sentence>` stands for any well-formed sentence here
 - `<preverb>` stands for any valid preverb
 - `<preposition>` stands for any valid preposition
