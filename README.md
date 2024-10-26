@@ -3,12 +3,12 @@
 ### (!) First things, the point of this is to see if you could use toki pona's simplicity as a base for a language that could evolve into an auxlang.
 
 We will introduce (and im sorry to say this), the alveolar tapped r which we will denote with r from now on.
-We will introduce plural pronouns to make speech less "vague" (we're attacking the core toki pona princinple but that's ok)
+We will introduce plural pronouns to make speech less "vague" (we're attacking the core toki pona principle but that's ok)
 We will introduce agglutination to make the language less ambiguous.
 Do a lot of relexification cause, and it could just be me, toki pona sounds ugly and has lots of l's and i's.
 
 While uncommon, it's technically "possible" to have vowel clusters in words; syllables could end in a vowel and start with another as the permissible
-rules allow the syllable structure (c)v(n). I will highlight for the first few words each syllable by seperating it with a "-" symbol.
+rules allow the syllable structure (c)v(n). I will highlight for the first few words each syllable by separating it with a "-" symbol.
 
 
 ## Lexicon
@@ -80,19 +80,6 @@ Pronouns can also become *possessive*, but we'll look into that later.
 `kama` indicates that the predicate **will become** true, that it was previously **not** doing.
 "`mi wi kama paweru o ijo`" simply means that you are will start creating the thing, but you were previously not doing. 
 - `mi wi kama konju o ni` = literally "me "arriving to chasing this" = "I **will** be following this"
-## Prepositions
-Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
-### The preposition `tawa`
-Being a derivative of `taweru`(to move) it describes movement towards a specific object. For example,
-`mi wi taweru o ijo tawa si` = "I am moving the thing **to** you"
-`ijo wi tawa si` = "the thing is moving **towards** you".
-Remember **again**: This would have a completely different meaning if we said `ijo wi taweru o si`. As that would mean "the thing is moving **you**". This is because `o` marks the direct object(the recipient of the action).
-
-Therefore, the exact meaning of `tawa` depends on its usage.
-### The preposition `iwa`
-Being a derivative of `iwo`, it describes the usage. It is analogous to saying "using" in English but with a different twist. For instance:
-- `onai wi taweru o si iwa suko` = "They're moving you using a mushroom".
-- `onai wi taweru o ijo ni tawa si iwa suko` = "They're moving this thing towards you using a mushroom".
 ## Particles
 *Particles* are words that have usually have no meaning, and only or primarily have grammatical functions.
 #### The particle `na` 
@@ -130,6 +117,25 @@ Therefore, You should not think of "`wi`" as is, but as a "logical separator" of
 - `si wi ru seme?` = "you're doing what?" (**ru is the verb meaning "to do"**)
 - `seme wi jan Anjo` = "who is (human) Anjo?" = "Who's Anjo?" 
 - `jan seme ni` = "what man this" ?
+## Prepositions
+Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
+### The preposition `tawa`
+Being a derivative of `taweru`(to move) it describes movement towards a specific object. For example,
+- `mi wi taweru o ijo tawa si` = "I am moving the thing **to** you"
+- `ijo wi tawa si` = "the thing is moving **towards** you".
+- `ijo wi taweru tawa seme` = literally: the thing moving towards what? = "what is it moving towards?".
+
+Notice how, if we were to introduce `o` the meaning would change:
+- `ijo wi taweru o seme?` = "it is moving the what?" = "What is it moving?"
+- `ijo wi taweru o ni tawa seme` = "it is moving the **this** towards what?".  After all, ni can also refer to "this/that" like we saw.
+
+Remember: This would have a completely different meaning if we said `ijo wi taweru o si`. As that would mean "the thing is moving **you**". This is because `o` marks the direct object(the recipient of the action).
+Therefore, the exact meaning of `tawa` depends on its usage.
+### The preposition `iwa`
+Being a derivative of `iwo`, it describes the usage. It is analogous to saying "using" in English but with a different twist. For instance:
+- `onai wi taweru o si iwa suko` = "They're moving you using a mushroom".
+- `onai wi taweru o ijo ni tawa si iwa suko` = "They're moving this thing towards you using a mushroom".
+- `onai wi taweru o seme?` = "What are they moving?"
 ## Sentence Structure
 Now to provide more info on the sentence structure, it's *almost* like toki pona's. a sentence could be: 
 `{ [(A|<preposition>|<sentence>|)]* wa B wi [<preverb>]* o C [kin D]* [<preposition>]* }`. Where,
@@ -140,8 +146,8 @@ Now to provide more info on the sentence structure, it's *almost* like toki pona
 - The asterisk (`*`) means that an object of the same form as the preceding one may occur any number of times (*including* zero)
 # Verbs & Nouns
 In toki pona, most verbs are also nouns. This isn't really true in this tokiponedo. Instead, we mutate the suffix of a word to "verb"-ify it and "noun"-ify it. Not **all** nouns can become verbs, such as, `tan` can not become a verb. Why? because what would be the direct object of tan? You can not "originate" something, you can only originate *from* something. Now it "could" mean create. However, if you mean to "create" something, you can always use simpler **more conventional** words to mean the same thing.
-- To make a verb a noun you simply append -ijo to the noun.
-- To make a noun a Verb you simply append -ru to the noun.
+- To make a verb a noun you simply append `ijo` to the noun.
+- To make a noun a Verb you simply append `ru` to the noun.
 #### Appending both does NOT mean that the word now is *both* a verb and a noun. It is always the suffix, that determines what the verb is (noun by `ijo` or verb by `ru`).
 Additionally, There are some "phono-tactic" rules when we are *mutating* a word.
 **if we are making a verb a noun**:
