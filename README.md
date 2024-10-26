@@ -95,7 +95,7 @@ It roughly translates into "into at". It’s a locative particle that marks *bot
 #### The particle `jo` 
 It roughly translates to "own, possess, have"; It is the possessive particle, indicating ownership. For example,
 - `ijo ni jo mi` = "This thing is mine".
-- `tomo jo jan Anjo` = "Anjo's house"
+- `tomo jo Anjo` = "Anjo's house"
 #### The particle `ni` 
 It is analogous to "this", "that"; It is the demonstrative particle.  Out of all particles discussed, it is important to understand that `ni` is used for various purposes
 - as a "that/this/there/those" (`jan ni wi seme?)` = "who is it".
@@ -115,7 +115,7 @@ Therefore, You should not think of "`wi`" as is, but as a "logical separator" of
 `seme` forms questions. you replace the word which you seek inquiry for.
 - `nimi si wi seme?` = "your name is what?" = "What is your name?"
 - `si wi ru seme?` = "you're doing what?" (**ru is the verb meaning "to do"**)
-- `seme wi jan Anjo` = "who is (human) Anjo?" = "Who's Anjo?" 
+- `seme wi Anjo` = "what(subject) is Anjo?" = "Who's Anjo?" 
 - `jan seme ni` = "what man this" ?
 ## Prepositions
 Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
