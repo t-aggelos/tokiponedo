@@ -97,7 +97,16 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | wawo          | noun  | white, pale white                               |
 | roje          | noun  | red, rose red, reddish pink.                    |
 | jewo          | noun  | the color yellow.                               |
-
+| wan           | noun  | the number one.                                 |
+| tu            | noun  | the number two.                                 |
+| san           | noun  | the number three                                |
+| wan           | noun  | the number four                                 |
+| uje           | noun  | the number five                                 |
+| jon           | noun  | the number six                                  |
+| enpa          | noun  | the number seven                                |
+| sen           | noun  | the number eight                                |
+| nana          | noun  | the number nine                                 |
+| unteku        | noun  |
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
 |  Vowels | IPA Representation |
@@ -119,6 +128,12 @@ And the consonants are:
 | **k**      | /k/                |
 | **r**      | /ɾ/                |
 
+## Syllable
+Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `v` is a vowel. And `(n)` is an optional coda(an `n`) that can be included at the end. Technically, Vowel sequences are allowed up to 2-3, however, they're almost never used. Therefore, vowel clusters *are* possible; but they've never been encountered. However, the following sequences are forbidden:
+- `nm`
+- `nn`
+- `ji` 
+Therefore, the rule is in short: "there can not be any word who's syllable is `ji` or ends with `n` and the next syllable starts with `n` or `m`."
 ## Pronouns
 Singular
 - `mi` = "I/mine"
