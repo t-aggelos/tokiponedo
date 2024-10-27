@@ -128,7 +128,7 @@ And the consonants are:
 | **k**      | /k/                |
 | **r**      | /ɾ/                |
 
-## Syllable
+## Syllables
 Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `v` is a vowel. And `(n)` is an optional coda(an `n`) that can be included at the end. Technically, Vowel sequences are allowed up to 2-3, however, they're almost never used. Therefore, vowel clusters *are* possible; but they've never been encountered. However, the following sequences are forbidden:
 - `nm`
 - `nn`
