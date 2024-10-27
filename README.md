@@ -12,7 +12,7 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (98 in total; 23 verbs and 75 words)
+## Lexicon (73 in total; 21 verbs and 52 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -26,7 +26,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ru          | verb | to act, to do                                    |
 | kiweru      | verb | to harden, to toughen                            |
 | aweru       | verb | to stay, to wait, to persist                      |
-| ajeru       | verb | to hold onto, to keep, to defend, to protect     |
+| ajeru       | verb | to defend, to protect.                            |
+| jareru      | verb | to shine, to light; to bless                      |
 | kameru      | verb | to arrive, to approach                            |
 | paweru      | verb | to struggle, to try                               |
 | moku        | verb | to consume, to drink                              |
@@ -58,7 +59,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | piwi          | noun  | preference, choice                              |
 | kan           | noun  | stem, base, trunk                              |
 | sama          | noun  | alike, similarity; peer, fellow, similar       |
-| dowa          | noun  | door, trapdoor                                 |
+| poruta          | noun  | door, trapdoor                                 |
 | kamo          | noun  | destination, end point, arrival point          |
 | mewi          | noun  | woman, female human                             |
 | mije          | noun  | man, male human                                |
@@ -68,7 +69,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | kiwan         | noun  | hard object, stone-like, metal                  |
 | kin           | noun  | also, additionally                              |
 | ijo           | noun  | thing, entity, being, matter                   |
-| oko           | noun  | eye, eyeball                                   |
+| oko           | noun  | eye; the white of the eyeball                  |
+| irin          | noun  | "iris"; the color the eye                      |
 | koki          | noun  | container, drawer, chest; domain               |
 | jari          | noun  | light, bloom, sunlight                          |
 | jowari        | noun  | moonlight                                      |
@@ -83,6 +85,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | papa          | noun  | father, father figure                           |
 | toki          | noun  | speech, language; rarely referring to a sentence |
 | pona          | noun  | good, great, nice                              |
+| karama        | noun  | noise, sound; ambience                         |
 | penomena      | noun  | phenomenon, effect                             |
 | epi           | noun  | above, upwards, up; roughly meaning "on"      |
 | upo           | noun  | under, below, beneath; roughly meaning inverse of "on" |
@@ -216,8 +219,8 @@ It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of
 - `jan nimi wa seme?` = "person's name is what?" = "what is their name" ?
 ### Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
-`mi wa taweru o tomo. tomo ni wa ron na dowa`. You could also say it in the inverse order.
-`mi wa taweru o tomo. doa wa ron na tomo ni `. But the order depends on what you want to express.
+`mi wa taweru o tomo. tomo ni wa ron na poruta`. You could also say it in the inverse order.
+`mi wa taweru o tomo. poruta wa ron na tomo ni `. But the order depends on what you want to express.
 This is also a moment to take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*
 ## Prepositions
 Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
