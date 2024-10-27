@@ -103,7 +103,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | wan           | noun  | the number one.                                 |
 | tu            | noun  | the number two.                                 |
 | san           | noun  | the number three                                |
-| wan           | noun  | the number four                                 |
+| pu            | noun  | the number four                                 |
 | uje           | noun  | the number five                                 |
 | jon           | noun  | the number six                                  |
 | enpa          | noun  | the number seven                                |
@@ -112,19 +112,19 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ju            | noun  | the number ten                                  |
 | nin           | noun  | the number eleven                               |
 | ku            | noun  | twelve or a grouping of twelve.                 |
-| wanku         | noun  | 1 dozen; 12                                  |
-| tuku          | noun  | 2 dozen; 24.                                 |
-| sanku         | noun  | 3 dozen;  36                                  |
-| wanku         | noun  | 4 dozen;  48                                  |
-| ujeku         | noun  | 5 dozen;  60                                  |
-| jonku         | noun  | 6 dozen;  72                                  |
-| enpaku        | noun  | 7 dozen;  84                                  |
-| senku         | noun  | 8 dozen;  96                                  |
-| nanaku        | noun  | 9 dozen;  108                                 |
-| juku          | noun  | 10 dozen;  120                                |
-| ninku         | noun  | eleven dozen;  132                            |
-| kuku          | noun  | twelve dozen;  144                            |
-| ekaku         | noun  | the number 1728.                              |
+| uniko         | noun  | 1 dozen; 12                                  |
+| tuko         | noun  | 2 dozen; 24.                                 |
+| sanko         | noun  | 3 dozen;  36                                  |
+| puko         | noun  | 4 dozen;  48                                  |
+| ujeko         | noun  | 5 dozen;  60                                  |
+| jonko         | noun  | 6 dozen;  72                                  |
+| enpanko        | noun  | 7 dozen;  84                                  |
+| senko        | noun  | 8 dozen;  96                                  |
+| nanako        | noun  | 9 dozen;  108                                 |
+| juko          | noun  | 10 dozen;  120                                |
+| ninko         | noun  | eleven dozen;  132                            |
+| kuko          | noun  | twelve dozen;  144                            |
+| ekako         | noun  | the number 1728.                              |
 
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
@@ -202,21 +202,21 @@ Appending both does NOT mean that the word now is *both* a verb and a noun. It i
 
 ### **if we are making a noun a verb**:
 
-1. if the second to last syllable contains an "`a`" it becomes an `e` and append `-ru`
+1. if the second to last syllable contains an "`a`"w it becomes an `e` and append `-ru`
 2. if the last syllable starts with consonant `r` or `k`, then you don't append but the vowel of the syllable becomes an "`u`"
 3. if the last syllable has a final n (coda), you add "`ijo`".
 
 This way most verbs would end in `ru` or `ju`. you can see this with the following examples:
-- `weku` is a verb while it's noun form is `waka`.
 - `kiwan` is a noun while it's verb form is `kiwenru`.
 - `wiwe` is a noun while it's verb form is `wiweru`
-
 ## The irregulars that don't follow the `a -> e` or `e -> a` rule are
 This list is non-exhaustive and there may be more irregulars. Usually these consist of loan words, or other borrowed terms.
-- `awen`
+- `awi`
 - `tatetajo`
 - `rua`
-
+- `wanu`
+- `soju`
+- `pawi`
 ## Preverbs
 Preverbs are used to modify the **verb** that simple modifiers cannot. They usually inform us about the **tense** that the verb is taking place in. They are added *before* the verb you want to modify. Otherwise, they simply express a *quality* of the verb, due to the nature of head-initial order modification. You can chain as many as you'd like, and in this situation, normal head-initial order holds true. 
 Most preverbs will mostly consist of `a` sounding syllables. But here's a non exhaustive list.
@@ -315,12 +315,13 @@ In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarif
 
 ## Chaining verbs
 Like we saw in particles, chaining verbs is done using `wi`. Think of 
-- `taneru wi taweru`  = `
+- `taneru wi taweru`  = "originate (to) move."
 
 As meaning roughly after `taneru` the `wi` becomes to mean something like "*in order to*" taweru. Therefore that(`taneru wi taweru`) could be interperted as "originate to move to". Again, the usage of this must be **highly dependent** on the meaning of the verbs. 
 Well that didn't really make a lot of sense.. "to originate to move" is nonsensical after all. So, let's look at another example.
 Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which together would mean "try to move to". For example, 
 - `mi wa wiweru wi paweru wi taweru tawa sina` = "I want to try to move towards you". 
+
 This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move".
 
 # Questions 2 -- "If"'s
