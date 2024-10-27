@@ -14,80 +14,82 @@ Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration f
 
 ## Lexicon (98 in total; 23 verbs and 75 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
-#### We will note verbs with `(v)` and nouns with `(n)`.
-- aru(v) = cast, the direction of light; also means ray.
-- konju(v) = follow, chase, go after.
-- weku(v) = throw away, to get rid of, to wipe off.
-- tatetari(v) = to rise, to stand up.
-- panu(v) = to give, send, provide.
-- wasu(v) = to fly, to soar.
-- suju(v) = to grow, flourish, flower.
-- ru(v) = to act, to do.
-- kiweru(v) = to harden, to toughen.
-- aweru(v) = to stay, to wait, to persist.
-- ajeru(v) = to hold onto, to keep, to defend, to protect.
-- kameru(v) = to arrive, to approach.
-- paweru(v) = to struggle, to try to
-- moku(v) = to consume, to drink.
-- waweru(v) = to rule, to dominate, to occupy.
-- taweru(v) = to move, to stride, walk
-- taneru(v) = to start, to begin, to initiate.
-- poneru(v) = to improve, to "goodify", to make better.
-- toku(v) = to speak, to say, to communicate.
-- ruku(v) = to continue.
-- kuromaru(v) = to paint, to color; to express
----
-- ja(n) = sun.
-- jowa(n) = moon, luna.
-- ma(n) = land, earth, soil.
-- majan(n) = country, territory, province.
-- tajun(n) = inside, within; interior. 
-- tan(n) = origin, start, beginning
-- wawa(n) = rule, law;
-- sanka(n) = disaster, evil, calamity, insensitive.
-- sejoko(n) = success, passing, accomplishment, achievement.
-- kuroma(n) = color, color hues, color spectrum.
-- sije(n) = body, figure, shape; stature.
-- tenpo(n) = time, moment, period, duration.
-- awi(n) = all, everything; infinity.
-- najo(n) = "not-thing"; empty, void, nothing, zero.
-- tatetajo(n) = stature, standing, posture.
-- taso(n) = only, exclusively; but, however.
-- pawi(n) = work, strenous activity (often physically), attempt; (metaphorically) a project.
-- jan(n) = person, human being.
-- piwi(n) = preference, choice,
-- kan(n) = stem, base, trunk.
-- sama(n) = alike, similarity; peer, fellow, similar.
-- dowa(n) = door, trapdoor.
-- kamo(n) = destination, end point, arrival point.
-- mewi(n) = woman, female human.
-- mije(n) = man, male human.
-- awen(n) = remain, staying, pause.
-- ajen(n) = defense, protection, persistence.
-- tomo(n) = house, building, residence.
-- kiwan(n) = hard object, stone-like, metal.
-- kin(n) = also, additionally.
-- ijo(n) = thing, entity, being, matter. 
-- oko(n) = eye, eyeball.
-- koki(n) = container, drawer, chest; domain.
-- jari(n) (ja + ari) = light, bloom, sunlight.
-- jowari(n)(jowa + ari) = moonlight.
-- kokijari  (koki + jari) = light-container = lantern, lamp, domain of light.
-- iwo(n) = tool, implement, machine.
-- soweri(n) = beast, animal.
-- suko(n) = mushroom, fungi with a cap.
-- kasi(n) = herb, leaf; the green of the leaf.
-- weka(n) = absent, removed, distant.
-- sujo(n) = flora, vegetation, plant, growth, flourishing.
-- mama(n) = mother, mother figure.
-- papa(n) = father, father figure.
-- toki(n) = speech, language; very rarely referring to a sentence by  "saying".
-- pona(n) = good, great, nice.
-- penomena(n) = phenomenon, effect.
-- epi(n) = above, upwards, up; roughly meaning "on"
-- upo(n) = under, below, beneath; roughly meaning the inverse of "on"
-- kon(n) = air, atmosphere,
-- ruko(n) = continuity, persistence.
+| Words         | Type  | Definition                                      |
+|---------------|-------|-------------------------------------------------
+| aru         | verb | cast, the direction of light; also means ray      |
+| konju       | verb | follow, chase, go after                           |
+| weku        | verb | throw away, to get rid of, to wipe off           |
+| tatetari    | verb | to rise, to stand up                              |
+| panu        | verb | to give, send, provide                            |
+| wasu        | verb | to fly, to soar                                   |
+| suju        | verb | to grow, flourish, flower                         |
+| ru          | verb | to act, to do                                    |
+| kiweru      | verb | to harden, to toughen                            |
+| aweru       | verb | to stay, to wait, to persist                      |
+| ajeru       | verb | to hold onto, to keep, to defend, to protect     |
+| kameru      | verb | to arrive, to approach                            |
+| paweru      | verb | to struggle, to try                               |
+| moku        | verb | to consume, to drink                              |
+| waweru      | verb | to rule, to dominate, to occupy                   |
+| taweru      | verb | to move, to stride, walk                          |
+| taneru      | verb | to start, to begin, to initiate                  |
+| poneru      | verb | to improve, to "goodify", to make better         |
+| toku        | verb | to speak, to say, to communicate                 |
+| ruku        | verb | to continue                                       |
+| kuromaru    | verb | to paint, to color; to express                    |
+| ja            | noun  | sun                                             |
+| jowa          | noun  | moon, luna                                     |
+| ma            | noun  | land, earth, soil                              |
+| majan         | noun  | country, territory, province                    |
+| tajun         | noun  | inside, within; interior                        |
+| tan           | noun  | origin, start, beginning                        |
+| wawa          | noun  | rule, law                                      |
+| sanka         | noun  | disaster, evil, calamity, insensitive          |
+| sejoko        | noun  | success, passing, accomplishment, achievement   |
+| kuroma        | noun  | color, color hues, color spectrum               |
+| sije          | noun  | body, figure, shape; stature                   |
+| tenpo         | noun  | time, moment, period, duration                  |
+| awi           | noun  | all, everything; infinity                       |
+| najo          | noun  | "not-thing"; empty, void, nothing, zero       |
+| tatetajo      | noun  | stature, standing, posture                      |
+| taso          | noun  | only, exclusively; but, however                 |
+| pawi          | noun  | work, strenuous activity, attempt; project      |
+| jan           | noun  | person, human being                             |
+| piwi          | noun  | preference, choice                              |
+| kan           | noun  | stem, base, trunk                              |
+| sama          | noun  | alike, similarity; peer, fellow, similar       |
+| dowa          | noun  | door, trapdoor                                 |
+| kamo          | noun  | destination, end point, arrival point          |
+| mewi          | noun  | woman, female human                             |
+| mije          | noun  | man, male human                                |
+| awen          | noun  | remain, staying, pause                          |
+| ajen          | noun  | defense, protection, persistence                |
+| tomo          | noun  | house, building, residence                      |
+| kiwan         | noun  | hard object, stone-like, metal                  |
+| kin           | noun  | also, additionally                              |
+| ijo           | noun  | thing, entity, being, matter                   |
+| oko           | noun  | eye, eyeball                                   |
+| koki          | noun  | container, drawer, chest; domain               |
+| jari          | noun  | light, bloom, sunlight                          |
+| jowari        | noun  | moonlight                                      |
+| kokijari      | noun  | light-container = lantern, lamp, domain of light|
+| iwo           | noun  | tool, implement, machine                        |
+| soweri        | noun  | beast, animal                                   |
+| suko          | noun  | mushroom, fungi with a cap                     |
+| kasi          | noun  | herb, leaf; the green of the leaf              |
+| weka          | noun  | absent, removed, distant                        |
+| sujo          | noun  | flora, vegetation, plant, growth, flourishing   |
+| mama          | noun  | mother, mother figure                           |
+| papa          | noun  | father, father figure                           |
+| toki          | noun  | speech, language; rarely referring to a sentence |
+| pona          | noun  | good, great, nice                              |
+| penomena      | noun  | phenomenon, effect                             |
+| epi           | noun  | above, upwards, up; roughly meaning "on"      |
+| upo           | noun  | under, below, beneath; roughly meaning inverse of "on" |
+| kon           | noun  | air, atmosphere                                |
+| ruko          | noun  | continuity, persistence                         |
+
+There you have it! Another table, neatly formatted. Anything else you need?
 
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
