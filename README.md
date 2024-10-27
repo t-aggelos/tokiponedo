@@ -12,7 +12,7 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (73 in total; 21 verbs and 58 words)
+## Lexicon (81 in total; 23 verbs and 58 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
