@@ -96,7 +96,7 @@ Singular
 Plural:
 - `mi` = "We"
 - `si` = "you(plural)"
-- `awijan` = They/them"
+- `awejan` = They/them"
 
 Pronouns can also become *possessive*, but we'll look into that later.
 ## Basics
@@ -165,6 +165,7 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 *Particles* are words that have usually have no meaning, and only or primarily have grammatical functions. Due to our head initial order, they come *before* the word they tend to modify. `taweru o kasi` means move the plant/herb. `o` is a particle we will discuss, and it is placed before `kasi`. However, as we will see, depending on what we want to modify, some particles are placed *after*.
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker
+- `e` the closest to the **nominative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to change the predicate into a **command**.
 - `wa` is the context marker. It links two sentences, where the latter is causally linked to the former. In simpler terms, for A and B. `A wa B` means "Because/in the context of A, B."
 - `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move". 
 #### The particle `na` 
@@ -209,20 +210,21 @@ Remember: This would have a completely different meaning if we said `ijo wi tawe
 Therefore, the exact meaning of `tawa` depends on its usage.
 ### The preposition `iwa`
 Being a derivative of `iwo`, it describes the usage. It is analogous to saying "using" in English but with a different twist. For the toki-ponists, this is `kepeken`. For instance:
-- `awijan taweru o sini iwa suko` = "They're moving you using a mushroom".
-- `awijan taweru o ijo ni tawa sini iwa suko` = "They're moving this thing towards you using a mushroom".
-- `awijan taweru iwa seme?` = "What are they moving with?". This question specifically asks which is the method of movement, or roughly the vehicle
+- `awejan taweru o sini iwa suko` = "They're moving you using a mushroom".
+- `awejan taweru o ijo ni tawa sini iwa suko` = "They're moving this thing towards you using a mushroom".
+- `awejan taweru iwa seme?` = "What are they moving with?". This question specifically asks which is the method of movement, or roughly the vehicle
 ### The preposition `tana`
 Being a derivative of `tan`, it means to originate from. It it similarly used to the toki pona equivelant `tan`. For instance:
-- `awijan wa tana inli` = "they are from england".
+- `awejan wa tana inli` = "they are from england".
 ### The preposition `ron` 
 It roughly translates into "into at". It’s a locative particle that marks *both* space and time. In other words, it can refer to a specific place **in space** or a specific moment **in time**. For example,
 - `mi ne sini wa ron tomo` = "me and you (are/at) the house." 
 - `mi wa ru na ron tenpo ni` = "I'm not doing anything right now"
-- `mi wa tokeru o awijan ron tomo` = "I am speaking to them in the house" 
+- `mi wa tokeru o awejan ron tomo` = "I am speaking to them in the house" 
 
 Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne sini`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided.
 
-### Expressions.
+### Expressions and Customs
 - `ron najo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
 - `ron tenpo ni` = "present in current time" ("this" time)
+- `e awi jan!` = 'hey everyone'.
