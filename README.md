@@ -165,7 +165,7 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 *Particles* are words that have usually have no meaning, and only or primarily have grammatical functions. Due to our head initial order, they come *before* the word they tend to modify. `taweru o kasi` means move the plant/herb. `o` is a particle we will discuss, and it is placed before `kasi`. However, as we will see, depending on what we want to modify, some particles are placed *after*.
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker
-- `e` the closest to the **nominative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to change the predicate into a **command**.
+- `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to change the predicate into a **command**.
 - `wa` is the context marker. It links two sentences, where the latter is causally linked to the former. In simpler terms, for A and B. `A wa B` means "Because/in the context of A, B."
 - `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move". 
 #### The particle `na` 
@@ -227,4 +227,4 @@ Like we discussed earlier, and particularly visible in the first sentence, you d
 ### Expressions and Customs
 - `ron najo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
 - `ron tenpo ni` = "present in current time" ("this" time)
-- `e awi jan!` = 'hey everyone'.
+- `e jan awi!` = 'hey everyone'.
