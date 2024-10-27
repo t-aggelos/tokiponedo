@@ -100,14 +100,14 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
-| Toki Pona Vowel | IPA Representation |
-|------------------|-------------------|
-| **a**            | /a/               |
-| **e**            | /e~ɛ/             |
-| **i**            | /i/               |
-| **o**            | /o/               |
-| **u**            | /u/               |
-
+|  Vowels | IPA Representation |
+|---------|--------------------|
+| **a**   | /a/                |
+| **e**   | /e~ɛ/ **\*\**      |
+| **i**   | /i/                |
+| **o**   | /o/                |
+| **u**   | /u/                |
+#### *: It really depends on your pronounciation, but any form of an "eh" is acceptable as long as it doesn't deviate too much from what's prescribed. If the language's pronounciation does eventually change, this list will change too.
 And the consonants are:
 | Consonants | IPA Representation |
 |------------|--------------------|
