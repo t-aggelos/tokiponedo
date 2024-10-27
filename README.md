@@ -12,89 +12,99 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (81 in total; 23 verbs and 58 words)
+## Lexicon (81 in total; 25 verbs and 58 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
 | aru         | verb | cast, the direction of light; also means ray      |
 | konju       | verb | follow, chase, go after                           |
-| weku        | verb | throw away, to get rid of, to wipe off           |
+| weku        | verb | throw away, to get rid of, to wipe off            |
 | tatetari    | verb | to rise, to stand up                              |
 | panu        | verb | to give, send, provide                            |
 | wasu        | verb | to fly, to soar                                   |
-| suju        | verb | to grow, flourish, flower                         |
-| ru          | verb | to act, to do                                    |
-| kiweru      | verb | to harden, to toughen                            |
+| soju        | verb | to grow, flourish, flower                         |
+| ru          | verb | to act, to do                                     |
+| ruareru     | verb | to flow, to liquify                               |
+| kiweru      | verb | to harden, to toughen                             |
 | aweru       | verb | to stay, to wait, to persist                      |
 | ajeru       | verb | to defend, to protect.                            |
 | jareru      | verb | to shine, to light; to bless                      |
-| kameru      | verb | to arrive, to approach                            |
+| kameru      | verb | to arrive, to come, to approach                   |
 | paweru      | verb | to struggle, to try                               |
 | moku        | verb | to consume, to drink                              |
 | waweru      | verb | to rule, to dominate, to occupy                   |
 | taweru      | verb | to move, to stride, walk                          |
-| taneru      | verb | to start, to begin, to initiate                  |
-| poneru      | verb | to improve, to "goodify", to make better         |
-| toku        | verb | to speak, to say, to communicate                 |
+| taneru      | verb | to start, to begin, to initiate                   |
+| poneru      | verb | to improve, to "goodify", to make better          |
+| toku        | verb | to speak, to say, to communicate                  |
 | ruku        | verb | to continue                                       |
 | kuromeru    | verb | to paint, to color; to express                    |
 | kawameru    | verb | to make a noise, to utter, to moan.               |
-| ja            | noun  | sun                                             |
+| kokeru      | verb | to hold, to possess, to keep.                     |
+| ja            | noun  | sun                                            |
 | jowa          | noun  | moon, luna                                     |
 | ma            | noun  | land, earth, soil                              |
-| majan         | noun  | country, territory, province                    |
-| tajun         | noun  | inside, within; interior                        |
-| tan           | noun  | origin, start, beginning                        |
-| rawa          | noun  | rule, law; goverment                            |
+| oja           | noun  | parent, caretaker.                             |
+| majan         | noun  | country, territory, province                   |
+| tajun         | noun  | inside, within; interior                       |
+| tan           | noun  | origin, start, beginning                       |
+| tewo          | noun  | liquid; can also mean water.                   |
+| rua           | noun  | the flow, liquid movement                      |
+| rawa          | noun  | rule, law; goverment                           |
 | sanka         | noun  | disaster, evil, calamity, insensitive          |
-| sejoko        | noun  | success, passing, accomplishment, achievement   |
-| kuroma        | noun  | color, color hues, color spectrum               |
+| sejoko        | noun  | success, passing, accomplishment, achievement  |
+| kuroma        | noun  | color, color hues, color spectrum              |
 | sije          | noun  | body, figure, shape; stature                   |
-| tenpo         | noun  | time, moment, period, duration                  |
-| awi           | noun  | all, everything; infinity                       |
-| najo          | noun  | "not-thing"; empty, void, nothing, zero       |
-| tatetajo      | noun  | stature, standing, posture                      |
-| taso          | noun  | only, exclusively; but, however                 |
-| pawi          | noun  | work, strenuous activity, attempt; project      |
-| jan           | noun  | person, human being                             |
-| piwi          | noun  | preference, choice                              |
+| soje          | noun  | a flower, a fruit; the produce.                |
+| tenpo         | noun  | time, moment, period, duration                 |
+| awi           | noun  | all, everything; infinity                      |
+| naijo          | noun  | et ijo + (na); empty, void, nothing, zero     |
+| tatetajo      | noun  | stature, standing, posture                     |
+| taso          | noun  | only, exclusively; but, however                |
+| pawi          | noun  | work, strenuous activity, attempt; project     |
+| jan           | noun  | person, human being                            |
+| piwi          | noun  | preference, choice                             |
 | kan           | noun  | stem, base, trunk                              |
 | sama          | noun  | alike, similarity; peer, fellow, similar       |
+| wawa          | noun  | power, ability, prowess.                       |
+| wiwe          | noun  | desire, wish, want.                            |            
 | poruta        | noun  | door, trapdoor                                 |
 | kamo          | noun  | destination, end point, arrival point          |
 | mewi          | noun  | woman, female human                             |
 | mije          | noun  | man, male human                                |
 | awen          | noun  | remain, staying, pause                          |
 | ajen          | noun  | defense, protection, persistence                |
-| tomo          | noun  | house, building, residence                      |
+| tomo          | noun  | house, building, residence, domain              |
 | kiwan         | noun  | hard object, stone-like, metal                  |
 | kin           | noun  | also, additionally                              |
 | ijo           | noun  | thing, entity, being, matter                   |
 | oko           | noun  | eye; the white of the eyeball                  |
 | irin          | noun  | "iris"; the color the eye                      |
-| koki          | noun  | container, drawer, chest; domain               |
+| koki          | noun  | container, drawer, chest; holder               |
 | jari          | noun  | light, bloom, sunlight                          |
 | jowari        | noun  | moonlight                                      |
-| kokijari      | noun  | lit. koki + jari = lantern, lamp, domain of light |
+| kokijari      | noun  | et. koki + jari = lantern, lamp.               |
+| tomojari      | noun  | et. tomo + jari = residence/domain of light.  |
 | iwo           | noun  | tool, implement, machine                        |
 | soweri        | noun  | beast, animal                                   |
 | suko          | noun  | mushroom, fungi with a cap                     |
 | kasi          | noun  | herb, leaf; the green of the leaf              |
 | weka          | noun  | absent, removed, distant                        |
 | sujo          | noun  | flora, vegetation, plant, growth, flourishing   |
-| mama          | noun  | mother, mother figure                           |
-| papa          | noun  | father, father figure                           |
+| mewoja        | noun  | et. mewi + oja = mother, mother figure         |
+| mijoja        | noun  | et. mije + oja = father, father figure        |
 | toki          | noun  | speech, language; rarely referring to a sentence |
 | pona          | noun  | good, great, nice                              |
 | kawama        | noun  | noise, sound; ambience                         |
 | penomena      | noun  | phenomenon, effect                             |
 | epi           | noun  | above, upwards, up; roughly meaning "on"      |
 | upo           | noun  | under, below, beneath; roughly meaning inverse of "on" |
+| poka          | noun  | next to, by side, nearby (something)           |
 | kon           | noun  | air, atmosphere                                |
 | ruko          | noun  | continuity, persistence                         |
 | pimeja        | noun  | a dark color - almost black, black              |
 | raso          | noun  | cyan, light blue, lime green, indigo            |
-| wawo          | noun  | white, pale white                               |
+| waro          | noun  | white, pale white                               |
 | roje          | noun  | red, rose red, reddish pink.                    |
 | jewo          | noun  | the color yellow.                               |
 | wan           | noun  | the number one.                                 |
@@ -106,7 +116,23 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | enpa          | noun  | the number seven                                |
 | sen           | noun  | the number eight                                |
 | nana          | noun  | the number nine                                 |
-| unteku        | noun  |
+| ju            | noun  | the number ten                                  |
+| nin           | noun  | the number eleven                               |
+| ku            | noun  | twelve or a grouping of twelve.                 |
+| wanku         | noun  | 1 dozen; 12                                  |
+| tuku          | noun  | 2 dozen; 24.                                 |
+| sanku         | noun  | 3 dozen;  36                                  |
+| wanku         | noun  | 4 dozen;  48                                  |
+| ujeku         | noun  | 5 dozen;  60                                  |
+| jonku         | noun  | 6 dozen;  72                                  |
+| enpaku        | noun  | 7 dozen;  84                                  |
+| senku         | noun  | 8 dozen;  96                                  |
+| nanaku        | noun  | 9 dozen;  108                                 |
+| juku          | noun  | 10 dozen;  120                                |
+| ninku         | noun  | eleven dozen;  132                            |
+| kuku          | noun  | twelve dozen;  144                            |
+| ekaku         | noun  | the number 1728.                              |
+
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
 |  Vowels | IPA Representation |
@@ -158,6 +184,10 @@ The **predicate** is the thing is being done are or is,
 The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject. There is no clear way to understand if something is a name; it is up to the context to specify whether or not someone is a person. We do not say `jan Anjo` like they do in toki pona. `Anjo` is enough.
 ### Verbs are Adjectives.
 There is no clear adjective-verb distinction, virtually almost every noun can be used as an adjective. This does not hold true for verb. If you want to call someone something, you should construct your sentence in a topic-comment structure.
+
+### Head Initial order
+Like the title suggests, this language is head initial. Therefore, your "modifiers" come *after* the head(the main verb). Since all nouns can be adjectives, they can also modify to reference the *quality* of the head. For example in English we can see this with: `speak good` and `good speak`; the former implies that speech itself is/must be good, whereas the latter implies that the *speech* itself is good. 
+
 ## Sentence Structure
 Now to provide more info on the sentence structure, it's *almost* like toki pona's. a sentence could be: 
 `{ [(A|<preposition>|<sentence>|)]* wa B [<preverb><verb>]* o C [kin D]* [<preposition>]* }`. Where,
@@ -167,7 +197,7 @@ Now to provide more info on the sentence structure, it's *almost* like toki pona
 - `(X|Y|Z)` stands for "pick either X, Y, or Z"
 - The asterisk (`*`) means that an object of the same form as the preceding one may occur any number of times (*including* zero)
 ## Verbs & Nouns
-In toki pona, most verbs are also nouns. This isn't really true in this tokiponedo. Instead, we mutate the suffix of a word to "verb"-ify it and "noun"-ify it. 
+In toki pona, verbs are also nouns. This isn't really true in this tokiponedo. Instead, we mutate the suffix of a word to "verb"-ify it and "noun"-ify it. 
 - To make a verb a noun you simply append `ijo` to the noun.
 - To make a noun a Verb you simply append `ru` to the noun.
 
@@ -191,30 +221,35 @@ This way most verbs would end in `ru` or `ju`. you can see this with the followi
 This list is non-exhaustive and there may be more irregulars. Usually these consist of loan words, or other borrowed terms.
 - `awen`
 - `tatetajo`
+- `rua`
 
 ## Preverbs
-Preverbs are used to modify the **verb** that simple modifiers cannot. They usually inform us about the **tense** that the verb is taking palce in. Also, they are added *before* the predicate they are applied to; however you can chain as many as you'd like, and in this situation, normal head-initial order holds true. 
+Preverbs are used to modify the **verb** that simple modifiers cannot. They usually inform us about the **tense** that the verb is taking place in. They are added *before* the verb you want to modify. Otherwise, they simply express a *quality* of the verb, due to the nature of head-initial order modification. You can chain as many as you'd like, and in this situation, normal head-initial order holds true. 
 Most preverbs will mostly consist of `a` sounding syllables. But here's a non exhaustive list.
 ### The preverb `kama` --- Future Tense.
 `kama` indicates that the predicate **will become** true, that it was previously **not** doing.
 - `kama paweru o ijo` = "will make the thing" (you were previously not making the thing). 
 - `kama konju o ni` = literally "me "arriving/becoming chasing this" = "I **will** be following this".
 ### The preverb `ruka`--- The Continuous.
-`ruka` indicates that the predicate *is continuing*, that it has been doing. It is analogous to the continuous auxiliary verb "been". `ruka` is almost exclusively placed last of the preverbs, to modify the previous to be "continuous". For instance,
+`ruka` indicates that the action *is continuing*, that it has been doing. It is analogous to the continuous auxiliary verb "been". `ruka` is almost exclusively placed last of the preverbs, to modify the previous to be "continuous". For instance,
 - `ruka paweru o ijo` = "work-(ing) the thing".
 - `kama ruka paweru o ijo` = "will be working the thing".
 ### The preverb `tana` --- Past Tense.
+`tana` indicates that the actio **had started** to be true, that it was doing in the past.
+- `mi wa tana ruka taweru o soweri` = "I had been moving the animal".
+### The preverb `wiwe` --- Desire or wish.
 `tana` indicates that the predicate **had started** to be true, that it was doing in the past.
 - `mi wa tana ruka taweru o soweri` = "I had been moving the animal".
 ### No preverb.
 Having no *tense* preverb, means that the action is assumed to be happening once in the present. But it really depends on the context of the phrase. 
 ## Particles
-*Particles* are words that have usually have no meaning, and only or primarily have grammatical functions. Due to our head initial order, they come *before* the word they tend to modify. `taweru o kasi` means move the plant/herb. `o` is a particle we will discuss, and it is placed before `kasi`. However, as we will see, depending on what we want to modify, some particles are placed *after*.
+*Particles* are words that have usually have no meaning, and only or primarily have grammatical functions. Due to our head initial order, they come *after* the word they tend to modify. `taweru o kasi` means move the plant/herb. `o` is a particle we will discuss, and it is placed after `taweru`.
 ### Marker particles
-- `o` denotes the direct object; it is the "direct object" marker
-- `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to change the predicate into a **command**.
+- `o` denotes the direct object; it is the "direct object" marker. In our previous example(`taweru o kasi`), `o` is placed after `taweru`, indicating that `taweru` acts on `kasi`. Thereby, `kasi` is the **direct object**; the recipient of `taweru`.
+- `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to express the **imperative case**; By changing the predicate into a **command**.
+- `nanpa` is the **ordinal particle**; groups numbers, it is like the `-th` suffix in English.
 - `wa` is the subject/topic marker. For instance, `A wa B` means "Because/in the context of A, B". Most sentences of ours will be constructed this way.
-- `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move". 
+- `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move".
 #### The particle `na` 
 It is the negation particle and denotes "not". Usually coming after the word it intends to modify(even prepositions can have a `na`). For example in 
 -  mi wi ru **na**  o ni. (I am **not** doing that)
@@ -236,6 +271,9 @@ It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of
 - `si wa ru seme?` = "you're doing what?" (**ru is the verb meaning "to do"**)
 - `seme wa Anjo` = "what(subject) is Anjo?" = "Who's Anjo?" 
 - `jan nimi wa seme?` = "person's name is what?" = "what is their name" ?
+Additionally repeating the verb of the sentence in conjuction with `na`(negation particle) forms **yes or no** questions.
+- `si wa wiwe mokeru na mokeru o kasi?` = "Do you want or not want to eat the fruit" = Do you want to eat the fruit? (while expecting a yes or no as an answer).
+- `mama si wa wiwe taweru na taweru o si tawa tomo jo Anjo` = "Does your mother want to move you to Anjo's house?"
 ### Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
 `mi wa taweru o tomo. tomo ni wa ron na poruta`. You could also say it in the inverse order.
@@ -277,7 +315,28 @@ Like we discussed earlier, and particularly visible in the first sentence, you d
 - `Anjo wa sama mi` = "Anjo is like me"
 In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarifies the verb of the predicate. However, `wa` here is more general: implying the context(sometimes casual sometimes not). If you're familiar with other languages, it is  *sort of* like the topic marker in Japaense; in the sense that it can also imply the subject.
 ### Expressions and Customs
-- `ron najo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
+- `ron naijo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
 - `ron tenpo ni` = "present in current time" ("this" time)
 - `e jan awi!` = 'hey everyone'.
-- `A wa sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
+- `e kameru pona!` = 'welcome!'
+- `jari pona` = literally `good day`. It means hello.
+- `A sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
+
+# Questions 2 -- "If"'s
+If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
+- `A lon ala lon B wiwe`
+# Enumeration & Counting
+#### It is important to remember, that this language **uses** base 12. So, to properly count in this language, you must know base 12.
+## Cardinal numbers --- "How many?"
+Since any noun can act as an adjective, all numbers can be applied to another noun to express the "quality of". To say something like two women, you would say `mewi tu`. Which roughly translates to "twos of woman". Saying the opposite(`tu mewi`) would *sort of* imply the same meaning, except you would suggest that the two(the number) itself has some quality to the noun woman(`mewi`); which is contradictory so it is preferrable you always add the cardinal noun/adjective at the end.
+### The suffix `-ku`
+We can simply just stack numbers together: `mewi ku tu` = "women of groups of twelves of twos"; Something like this would mean "fourteen women".
+#### Keep in mind, this operation is "additive" not "multiplicative".
+While this tokiponedo remains an *analytic* language, `ku` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
+So saying, "`there are 94 women`", you would say: `meji wa nanaku wan ron ni` which more accurately translates to `In the context of women, 94 exist at/on here.`.
+
+# Ordinal Particle -- "Nth of what?"
+If you wanted to say "`she is the 94th woman here`", you wouldn't *exactly say* that as the grammar works quite differently. You would say something like `about her, the 94th woman`, **using** the cardinal particle `nanpa`. Thus, our previous example becomes:
+- `nijan wa meji nanpa tu ron ni` = "she is the 94th woman here."
+
+**However** `meji wa nanpa tu` is grammatically incorrect since `nanpa` is  used in conjunction(like other particles) with a noun directly related to it. It can not be applied to `wa`, which is itself a marker.
