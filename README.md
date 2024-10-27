@@ -174,7 +174,7 @@ It is the negation particle and denotes "not". Usually coming after the word it 
 -  mi wi ru **na**  o ni. (I am **not** doing that)
 #### The particles `ne` and `nu` 
 It links subjects and/or objects, **but not verbs**. Functioning like the english `and`. For example,
-- `mi ne sini wa ruka taweru o tomo` = "me and you are going to the house"
+- `mi ne si wa ruka taweru o tomo` = "me and you are going to the house"
 Meanwhile, `nu` functions like `or`, seperating the multiple possibilities.
 #### The particle `jo` 
 `jo` roughly translates to "own, possess, have"; As the *posessive* particle, it means "owned" or "possessed (by)", indicating ownership of what comes before it by what comes after it. Since this tokiponedo is using a head-initial order, `jo` modifies a verb to clarify posession, and then any further modification becomes the *recipient* of the posession. Aka, the "owner". For example,
