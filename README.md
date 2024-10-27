@@ -12,7 +12,7 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon
+## Lexicon (98 in total; 23 verbs and 75 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 #### We will note particles with `(p)`, verbs with `(v)` and nouns with `(n)`, prepositions with `(z)` and preverbs with `(pv)`.
 - aru(v) = cast, the direction of light; also means ray.
