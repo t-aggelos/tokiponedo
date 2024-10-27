@@ -12,35 +12,35 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (81 in total; 25 verbs and 58 words)
+## Lexicon (116 in total; 25 verbs and 91 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
-| aru         | verb | cast, the direction of light; also means ray      |
-| konju       | verb | follow, chase, go after                           |
-| weku        | verb | throw away, to get rid of, to wipe off            |
-| tatetari    | verb | to rise, to stand up                              |
-| panu        | verb | to give, send, provide                            |
-| wasu        | verb | to fly, to soar                                   |
-| soju        | verb | to grow, flourish, flower                         |
-| ru          | verb | to act, to do                                     |
-| ruareru     | verb | to flow, to liquify                               |
-| kiweru      | verb | to harden, to toughen                             |
-| aweru       | verb | to stay, to wait, to persist                      |
-| ajeru       | verb | to defend, to protect.                            |
-| jareru      | verb | to shine, to light; to bless                      |
-| kameru      | verb | to arrive, to come, to approach                   |
-| paweru      | verb | to struggle, to try                               |
-| moku        | verb | to consume, to drink                              |
-| waweru      | verb | to rule, to dominate, to occupy                   |
-| taweru      | verb | to move, to stride, walk                          |
-| taneru      | verb | to start, to begin, to initiate                   |
-| poneru      | verb | to improve, to "goodify", to make better          |
-| toku        | verb | to speak, to say, to communicate                  |
-| ruku        | verb | to continue                                       |
-| kuromeru    | verb | to paint, to color; to express                    |
-| kawameru    | verb | to make a noise, to utter, to moan.               |
-| kokeru      | verb | to hold, to possess, to keep.                     |
+| aru           | verb | cast, the direction of light; also means ray    |
+| konju         | verb | follow, chase, go after                         |
+| weku          | verb | throw away, to get rid of, to wipe off          |
+| tatetari      | verb | to rise, to stand up                            |
+| panu          | verb | to give, send, provide                          |
+| wasu          | verb | to fly, to soar                                 |
+| soju          | verb | to grow, flourish, flower                       |
+| ru            | verb | to act, to do                                   |
+| ruareru       | verb | to flow, to liquify                             |
+| kiweru        | verb | to harden, to toughen                           |
+| aweru         | verb | to stay, to wait, to persist                    |
+| ajeru         | verb | to defend, to protect.                          |
+| jareru        | verb | to shine, to light; to bless                    |
+| kameru        | verb | to arrive, to come, to approach                 |
+| paweru        | verb | to struggle, to try                             |
+| moku          | verb | to consume, to drink                            |
+| waweru        | verb | to rule, to dominate, to occupy                 |
+| taweru        | verb | to move, to stride, walk                        |
+| taneru        | verb | to start, to begin, to initiate                 |
+| poneru        | verb | to improve, to "goodify", to make better        |
+| toku          | verb | to speak, to say, to communicate                |
+| ruku          | verb | to continue                                     |
+| kuromeru      | verb | to paint, to color; to express                  |
+| kawameru      | verb | to make a noise, to utter, to moan.             |
+| kokeru        | verb | to hold, to possess, to keep.                   |
 | ja            | noun  | sun                                            |
 | jowa          | noun  | moon, luna                                     |
 | ma            | noun  | land, earth, soil                              |
@@ -58,7 +58,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | soje          | noun  | a flower, a fruit; the produce.                |
 | tenpo         | noun  | time, moment, period, duration                 |
 | awi           | noun  | all, everything; infinity                      |
-| naijo          | noun  | et ijo + (na); empty, void, nothing, zero     |
+| naijo         | noun  | et ijo + (na); empty, void, nothing, zero      |
 | tatetajo      | noun  | stature, standing, posture                     |
 | taso          | noun  | only, exclusively; but, however                |
 | pawi          | noun  | work, strenuous activity, attempt; project     |
