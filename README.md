@@ -56,6 +56,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - jan(n) = person, human being.
 - piwi(n) = preference, choice,
 - kan(n) = stem, base, trunk.
+- sama(n) = alike, similarity; peer, fellow, similar.
 - dowa(n) = door, trapdoor.
 - kamo(n) = destination, end point, arrival point.
 - mewi(n) = woman, female human.
@@ -90,12 +91,12 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 ## Pronouns
 Singular
 - `mi` = "I/mine"
-- `sini` = "You/yours"
+- `si` = "You/yours"
 - `nijan `= "He/she/it/him/her"
 
 Plural:
-- `mi` = "We"
-- `si` = "you(plural)"
+- `mai` = "We"
+- `sai` = "you(plural)"
 - `awejan` = They/them"
 
 Pronouns can also become *possessive*, but we'll look into that later.
@@ -108,7 +109,7 @@ The **predicate** is the thing is being done are or is,
 -   or a thing; like house, animal, food
 -   and finally:  a verb which applies it's "action" to a certain object.
 #### the subject
-The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject.
+The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject. There is no clear way to understand if something is a name; it is up to the context to specify whether or not someone is a person. We do not say `jan Anjo` like they do in toki pona. `Anjo` is enough.
 ### Verbs are Adjectives.
 There is no clear adjective-verb distinction, virtually almost every noun can be used as an adjective. This does not hold true for verb. If you want to call someone something, you should construct your sentence in a topic-comment structure.
 ## Sentence Structure
@@ -166,7 +167,7 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker
 - `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to change the predicate into a **command**.
-- `wa` is the context marker. It links two sentences, where the latter is causally linked to the former. In simpler terms, for A and B. `A wa B` means "Because/in the context of A, B."
+- `wa` is the subject/topic marker. For instance, `A wa B` means "Because/in the context of A, B". Most sentences of ours will be constructed this way.
 - `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move". 
 #### The particle `na` 
 It is the negation particle and denotes "not". Usually coming after the word it intends to modify(even prepositions can have a `na`). For example in 
@@ -218,13 +219,19 @@ Being a derivative of `tan`, it means to originate from. It it similarly used to
 - `awejan wa tana inli` = "they are from england".
 ### The preposition `ron` 
 It roughly translates into "into at". It’s a locative particle that marks *both* space and time. In other words, it can refer to a specific place **in space** or a specific moment **in time**. For example,
-- `mi ne sini wa ron tomo` = "me and you (are/at) the house." 
+- `mi ne si wa ron tomo` = "me and you (are/at) the house." 
 - `mi wa ru na ron tenpo ni` = "I'm not doing anything right now"
-- `mi wa tokeru o awejan ron tomo` = "I am speaking to them in the house" 
+- `mi wa tokeru o awejan ron tomo` = "I am speaking to them in the house"
 
-Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne sini`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided.
-
+Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne sini`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided. Another example of how `na` could be used in conjuction with the preposition is:
+- `mi wa tokeru o awejan tawa Anjo sama na Koto` = "I am speaking about them to Anjo, in the manner, unlike Koto".
+### The preposition `sama` -- A-like B.
+`sama` means similarity, and therefore, using it implies that the **predicate** is similar to something. Like we discussed earlier, prepositions describe the *manner* of the predicate. Let's look at an example:
+- `Anjo wa tokeru o A ni sama mi` = "Anjo is speaking of (this) A like me.".
+- `Anjo wa sama mi` = "Anjo is like me"
+In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarifies the verb of the predicate. However, `wa` here is more general: implying the context(sometimes casual sometimes not). If you're familiar with other languages, it is  *sort of* like the topic marker in Japaense; in the sense that it can also imply the subject.
 ### Expressions and Customs
 - `ron najo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
 - `ron tenpo ni` = "present in current time" ("this" time)
 - `e jan awi!` = 'hey everyone'.
+- `A wa sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
