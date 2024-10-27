@@ -103,7 +103,7 @@ This tokiponedo has five vowels, each with a distinct pronunciation:
 |  Vowels | IPA Representation |
 |---------|--------------------|
 | **a**   | /a/                |
-| **e**   | /e~ɛ/ **\*\**      |
+| **e**   | /e~ɛ/ **/*/**      |
 | **i**   | /i/                |
 | **o**   | /o/                |
 | **u**   | /u/                |
