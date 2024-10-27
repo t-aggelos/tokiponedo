@@ -1,5 +1,3 @@
-
-
 # A very interesting tokiponedo
 
 ### (!) First things, the point of this is to see if you could use toki pona's simplicity as a base for a language that could evolve into an auxlang.
@@ -70,8 +68,9 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - ijo(n) = thing, entity, being, matter. 
 - oko(n) = eye, eyeball.
 - koki(n) = container, drawer, chest; domain.
-- jari(n) = sunlight
-- kokijari = light-container = lantern, lamp, domain of light.
+- jari(n) (ja + ari) = light, bloom, sunlight.
+- jowari(n)(jowa + ari) = moonlight.
+- kokijari  (koki + jari) = light-container = lantern, lamp, domain of light.
 - iwo(n) = tool, implement, machine.
 - soweri(n) = beast, animal.
 - suko(n) = mushroom, fungi with a cap.
