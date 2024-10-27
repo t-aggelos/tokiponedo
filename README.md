@@ -12,7 +12,7 @@ rules allow the syllable structure (c)v(n). I will highlight for the first few w
 
 Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (73 in total; 21 verbs and 52 words)
+## Lexicon (73 in total; 21 verbs and 58 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -37,14 +37,15 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | poneru      | verb | to improve, to "goodify", to make better         |
 | toku        | verb | to speak, to say, to communicate                 |
 | ruku        | verb | to continue                                       |
-| kuromaru    | verb | to paint, to color; to express                    |
+| kuromeru    | verb | to paint, to color; to express                    |
+| kawameru    | verb | to make a noise, to utter, to moan.               |
 | ja            | noun  | sun                                             |
 | jowa          | noun  | moon, luna                                     |
 | ma            | noun  | land, earth, soil                              |
 | majan         | noun  | country, territory, province                    |
 | tajun         | noun  | inside, within; interior                        |
 | tan           | noun  | origin, start, beginning                        |
-| wawa          | noun  | rule, law                                      |
+| rawa          | noun  | rule, law; goverment                            |
 | sanka         | noun  | disaster, evil, calamity, insensitive          |
 | sejoko        | noun  | success, passing, accomplishment, achievement   |
 | kuroma        | noun  | color, color hues, color spectrum               |
@@ -59,7 +60,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | piwi          | noun  | preference, choice                              |
 | kan           | noun  | stem, base, trunk                              |
 | sama          | noun  | alike, similarity; peer, fellow, similar       |
-| poruta          | noun  | door, trapdoor                                 |
+| poruta        | noun  | door, trapdoor                                 |
 | kamo          | noun  | destination, end point, arrival point          |
 | mewi          | noun  | woman, female human                             |
 | mije          | noun  | man, male human                                |
@@ -74,7 +75,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | koki          | noun  | container, drawer, chest; domain               |
 | jari          | noun  | light, bloom, sunlight                          |
 | jowari        | noun  | moonlight                                      |
-| kokijari      | noun  | light-container = lantern, lamp, domain of light|
+| kokijari      | noun  | lit. koki + jari = lantern, lamp, domain of light |
 | iwo           | noun  | tool, implement, machine                        |
 | soweri        | noun  | beast, animal                                   |
 | suko          | noun  | mushroom, fungi with a cap                     |
@@ -85,14 +86,17 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | papa          | noun  | father, father figure                           |
 | toki          | noun  | speech, language; rarely referring to a sentence |
 | pona          | noun  | good, great, nice                              |
-| karama        | noun  | noise, sound; ambience                         |
+| kawama        | noun  | noise, sound; ambience                         |
 | penomena      | noun  | phenomenon, effect                             |
 | epi           | noun  | above, upwards, up; roughly meaning "on"      |
 | upo           | noun  | under, below, beneath; roughly meaning inverse of "on" |
 | kon           | noun  | air, atmosphere                                |
 | ruko          | noun  | continuity, persistence                         |
-
-There you have it! Another table, neatly formatted. Anything else you need?
+| pimeja        | noun  | a dark color - almost black, black              |
+| raso          | noun  | cyan, light blue, lime green, indigo            |
+| wawo          | noun  | white, pale white                               |
+| roje          | noun  | red, rose red, reddish pink.                    |
+| jewo          | noun  | the color yellow.                               |
 
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
