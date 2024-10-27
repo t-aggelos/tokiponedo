@@ -14,7 +14,7 @@ Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration f
 
 ## Lexicon (98 in total; 23 verbs and 75 words)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
-#### We will note particles with `(p)`, verbs with `(v)` and nouns with `(n)`, prepositions with `(z)` and preverbs with `(pv)`.
+#### We will note verbs with `(v)` and nouns with `(n)`.
 - aru(v) = cast, the direction of light; also means ray.
 - konju(v) = follow, chase, go after.
 - weku(v) = throw away, to get rid of, to wipe off.
@@ -52,6 +52,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - awi(n) = all, everything; infinity.
 - najo(n) = "not-thing"; empty, void, nothing, zero.
 - tatetajo(n) = stature, standing, posture.
+- taso(n) = only, exclusively; but, however.
 - pawi(n) = work, strenous activity (often physically), attempt; (metaphorically) a project.
 - jan(n) = person, human being.
 - piwi(n) = preference, choice,
@@ -88,6 +89,27 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 - kon(n) = air, atmosphere,
 - ruko(n) = continuity, persistence.
 
+## The Vowel System
+This tokiponedo has five vowels, each with a distinct pronunciation:
+| Toki Pona Vowel | IPA Representation |
+|------------------|-------------------|
+| **a**            | /a/               |
+| **e**            | /e~ɛ/             |
+| **i**            | /i/               |
+| **o**            | /o/               |
+| **u**            | /u/               |
+
+And the consonants are:
+| Consonants | IPA Representation |
+|------------|--------------------|
+| **p**      | /p/                |
+| **w**      | /w/                |
+| **j**      | /j/                |
+| **t**      | /t/                |
+| **s**      | /s/                |
+| **k**      | /k/                |
+| **r**      | /ɾ/                |
+
 ## Pronouns
 Singular
 - `mi` = "I/mine"
@@ -100,7 +122,7 @@ Plural:
 - `awejan` = They/them"
 
 Pronouns can also become *possessive*, but we'll look into that later.
-## Basics
+## The Basics of a Sentence
 A sentence is composed of a subject and a predicate with some following prepositions. Now, a predicate may contain preverbs.
 ### the predicate
 The **predicate** is the thing is being done are or is,
