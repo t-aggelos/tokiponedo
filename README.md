@@ -2,15 +2,7 @@
 
 ### (!) First things, the point of this is to see if you could use toki pona's simplicity as a base for a language that could evolve into an auxlang.
 
-We will introduce (and im sorry to say this), the alveolar tapped r which we will denote with r from now on.
-We will introduce plural pronouns to make speech less "vague" (we're attacking the core toki pona principle but that's ok)
-We will introduce agglutination to make the language less ambiguous.
-Do a lot of relexification cause, and it could just be me, toki pona sounds ugly and has lots of l's and i's.
-
-While uncommon, it's technically "possible" to have vowel clusters in words; syllables could end in a vowel and start with another as the permissible
-rules allow the syllable structure (c)v(n). I will highlight for the first few words each syllable by separating it with a "-" symbol.
-
-Lastly, I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
+I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
 ## Lexicon (116 in total; 25 verbs and 91 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
@@ -33,6 +25,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | paweru        | verb | to struggle, to try                             |
 | moku          | verb | to consume, to drink                            |
 | waweru        | verb | to rule, to dominate, to occupy                 |
+| wiweru        | verb | to want, to desire, to wish                     |
 | taweru        | verb | to move, to stride, walk                        |
 | taneru        | verb | to start, to begin, to initiate                 |
 | poneru        | verb | to improve, to "goodify", to make better        |
@@ -155,7 +148,7 @@ And the consonants are:
 | **r**      | /ɾ/                |
 
 ## Syllables
-Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `v` is a vowel. And `(n)` is an optional coda(an `n`) that can be included at the end. Technically, Vowel sequences are allowed up to 2-3, however, they're almost never used. Therefore, vowel clusters *are* possible; but they've never been encountered. However, the following sequences are forbidden:
+Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `v` is a vowel. And `(n)` is an optional coda(an `n`) that can be included at the end. While technically vowel(sequences are allowed up to 2), however, they're almost never used. In short, vowel clusters *are* possible; but they've never been encountered. However, the following consonant clusters and sequences are forbidden:
 - `nm`
 - `nn`
 - `ji` 
@@ -216,6 +209,7 @@ Appending both does NOT mean that the word now is *both* a verb and a noun. It i
 This way most verbs would end in `ru` or `ju`. you can see this with the following examples:
 - `weku` is a verb while it's noun form is `waka`.
 - `kiwan` is a noun while it's verb form is `kiwenru`.
+- `wiwe` is a noun while it's verb form is `wiweru`
 
 ## The irregulars that don't follow the `a -> e` or `e -> a` rule are
 This list is non-exhaustive and there may be more irregulars. Usually these consist of loan words, or other borrowed terms.
@@ -235,10 +229,7 @@ Most preverbs will mostly consist of `a` sounding syllables. But here's a non ex
 - `ruka paweru o ijo` = "work-(ing) the thing".
 - `kama ruka paweru o ijo` = "will be working the thing".
 ### The preverb `tana` --- Past Tense.
-`tana` indicates that the actio **had started** to be true, that it was doing in the past.
-- `mi wa tana ruka taweru o soweri` = "I had been moving the animal".
-### The preverb `wiwe` --- Desire or wish.
-`tana` indicates that the predicate **had started** to be true, that it was doing in the past.
+`tana` indicates that the action **had started** to be true, that it was doing in the past.
 - `mi wa tana ruka taweru o soweri` = "I had been moving the animal".
 ### No preverb.
 Having no *tense* preverb, means that the action is assumed to be happening once in the present. But it really depends on the context of the phrase. 
@@ -249,7 +240,7 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 - `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to express the **imperative case**; By changing the predicate into a **command**.
 - `nanpa` is the **ordinal particle**; groups numbers, it is like the `-th` suffix in English.
 - `wa` is the subject/topic marker. For instance, `A wa B` means "Because/in the context of A, B". Most sentences of ours will be constructed this way.
-- `wi` links two verbs. Think of `taneru wi taweru` as meaning roughly taneru *in order to* taweru. Again, the usage of this must be **highly dependent** on the meaning of the verbs. A great example of `wi` would be linking *to try to*(`paweru`) with `taweru`, which would mean something like "try to move".
+- `wi` links two verbs.
 #### The particle `na` 
 It is the negation particle and denotes "not". Usually coming after the word it intends to modify(even prepositions can have a `na`). For example in 
 -  mi wi ru **na**  o ni. (I am **not** doing that)
@@ -321,6 +312,16 @@ In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarif
 - `e kameru pona!` = 'welcome!'
 - `jari pona` = literally `good day`. It means hello.
 - `A sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
+
+## Chaining verbs
+Like we saw in particles, chaining verbs is done using `wi`. Think of 
+- `taneru wi taweru`  = `
+
+As meaning roughly after `taneru` the `wi` becomes to mean something like "*in order to*" taweru. Therefore that(`taneru wi taweru`) could be interperted as "originate to move to". Again, the usage of this must be **highly dependent** on the meaning of the verbs. 
+Well that didn't really make a lot of sense.. "to originate to move" is nonsensical after all. So, let's look at another example.
+Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which together would mean "try to move to". For example, 
+- `mi wa wiweru wi paweru wi taweru tawa sina` = "I want to try to move towards you". 
+This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move".
 
 # Questions 2 -- "If"'s
 If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
