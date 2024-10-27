@@ -186,7 +186,7 @@ It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of
 - to demonstrate emphasis, like saying "this thing here" (`ijo ni`)
 ### Questions
 `seme` forms questions. you replace the word which you seek inquiry for.
-- `nimi sini wa seme?` = "your name is what?" = "What is your name?"
+- `nimi si wa seme?` = "your name is what?" = "What is your name?"
 - `si wa ru seme?` = "you're doing what?" (**ru is the verb meaning "to do"**)
 - `seme wa Anjo` = "what(subject) is Anjo?" = "Who's Anjo?" 
 - `jan nimi wa seme?` = "person's name is what?" = "what is their name" ?
@@ -211,8 +211,8 @@ Remember: This would have a completely different meaning if we said `ijo wi tawe
 Therefore, the exact meaning of `tawa` depends on its usage.
 ### The preposition `iwa`
 Being a derivative of `iwo`, it describes the usage. It is analogous to saying "using" in English but with a different twist. For the toki-ponists, this is `kepeken`. For instance:
-- `awejan taweru o sini iwa suko` = "They're moving you using a mushroom".
-- `awejan taweru o ijo ni tawa sini iwa suko` = "They're moving this thing towards you using a mushroom".
+- `awejan taweru o si iwa suko` = "They're moving you using a mushroom".
+- `awejan taweru o ijo ni tawa si iwa suko` = "They're moving this thing towards you using a mushroom".
 - `awejan taweru iwa seme?` = "What are they moving with?". This question specifically asks which is the method of movement, or roughly the vehicle
 ### The preposition `tana`
 Being a derivative of `tan`, it means to originate from. It it similarly used to the toki pona equivelant `tan`. For instance:
@@ -223,7 +223,7 @@ It roughly translates into "into at". It’s a locative particle that marks *bot
 - `mi wa ru na ron tenpo ni` = "I'm not doing anything right now"
 - `mi wa tokeru o awejan ron tomo` = "I am speaking to them in the house"
 
-Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne sini`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided. Another example of how `na` could be used in conjuction with the preposition is:
+Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne si`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided. Another example of how `na` could be used in conjuction with the preposition is:
 - `mi wa tokeru o awejan tawa Anjo sama na Koto` = "I am speaking about them to Anjo, in the manner, unlike Koto".
 ### The preposition `sama` -- A-like B.
 `sama` means similarity, and therefore, using it implies that the **predicate** is similar to something. Like we discussed earlier, prepositions describe the *manner* of the predicate. Let's look at an example:
