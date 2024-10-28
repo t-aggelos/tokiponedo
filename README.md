@@ -331,7 +331,7 @@ If we want to talk about if something is true, we can use the particle `ron` whi
 #### It is important to remember, that this language **uses** base 12. So, to properly count in this language, you must know base 12.
 ## Cardinal numbers --- "How many?"
 Since any noun can act as an adjective, all numbers can be applied to another noun to express the "quality of". To say something like two women, you would say `mewi tu`. Which roughly translates to "twos of woman". Saying the opposite(`tu mewi`) would *sort of* imply the same meaning, except you would suggest that the two(the number) itself has some quality to the noun woman(`mewi`); which is contradictory so it is preferrable you always add the cardinal noun/adjective at the end.
-### The suffix `-ku`
+### The suffix `-ko`
 We can simply just stack numbers together: `mewi ko tu` = "women of groups of twelves of twos"; Something like this would mean "fourteen women".
 #### Keep in mind, this operation is "additive" not "multiplicative".
 While this tokiponedo remains an *analytic* language, `ko` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
