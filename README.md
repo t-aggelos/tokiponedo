@@ -4,7 +4,7 @@
 
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (116 in total; 25 verbs and 91 nouns)
+## Lexicon (128 in total; 27 verbs and 101 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -24,8 +24,9 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | kameru        | verb | to arrive, to come, to approach                 |
 | paweru        | verb | to struggle, to try                             |
 | moku          | verb | to consume, to drink                            |
-| waweru        | verb | to rule, to dominate, to occupy                 |
-| wiweru        | verb | to want, to desire, to wish                     |
+| waweru        | verb | to embold, to , to strengthen                   |
+| raweru        | verb | to rule, to dominate; to occupy                 |
+| wiweru        | verb | to want, to desire, to wish; to hope            |
 | taweru        | verb | to move, to stride, walk                        |
 | taneru        | verb | to start, to begin, to initiate                 |
 | poneru        | verb | to improve, to "goodify", to make better        |
@@ -40,17 +41,25 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | oja           | noun  | parent, caretaker.                             |
 | majan         | noun  | country, territory, province                   |
 | tajun         | noun  | inside, within; interior                       |
+| sewo          | noun  | outer layer; skin, peel, shell, bark           |
 | tan           | noun  | origin, start, beginning                       |
 | tewo          | noun  | liquid; can also mean water.                   |
 | rua           | noun  | the flow, liquid movement                      |
-| rawa          | noun  | rule, law; goverment                           |
+| rawa          | noun  | rule, leader, law; goverment                   |
 | sanka         | noun  | disaster, evil, calamity, insensitive          |
 | sejoko        | noun  | success, passing, accomplishment, achievement  |
 | kuroma        | noun  | color, color hues, color spectrum              |
 | sije          | noun  | body, figure, shape; stature                   |
+| uta           | noun  | a mouth or any consuming orifice of a being.   |
+| tatenoka      | noun  | leg; part of anything which makes something stand. |
+| noka          | noun  | foot; base of a leg.                           |
+| uporawa       | noun  | et. above + lawa(toki pona for head), skull, cranium|
+| tajurawa      | noun  | brain, mind.                                   |
 | soje          | noun  | a flower, a fruit; the produce.                |
 | tenpo         | noun  | time, moment, period, duration                 |
 | awi           | noun  | all, everything; infinity                      |
+| ripu          | noun  | a flat and bendable object often used for writing; paper, text, document etc. |
+| siteren       | noun  | marking, writing, carving.                     |
 | naijo         | noun  | et ijo + (na); empty, void, nothing, zero      |
 | tatetajo      | noun  | stature, standing, posture                     |
 | taso          | noun  | only, exclusively; but, however                |
@@ -99,7 +108,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | raso          | noun  | cyan, light blue, lime green, indigo            |
 | waro          | noun  | white, pale white                               |
 | roje          | noun  | red, rose red, reddish pink.                    |
-| jewo          | noun  | the color yellow.                               |
+| jero          | noun  | the color yellow.                               |
 | wan           | noun  | the number one.                                 |
 | tu            | noun  | the number two.                                 |
 | san           | noun  | the number three                                |
@@ -125,6 +134,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ninko         | noun  | eleven dozen;  132                            |
 | kuko          | noun  | twelve dozen;  144                            |
 | ekako         | noun  | the number 1728.                              |
+| inkuwanto     | noun  | phonetic transcription of "England".          |
+| ewinasu       | noun  | phonetic transcription of "Έλληνας" (Greece)  |
 
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
@@ -177,6 +188,10 @@ The **predicate** is the thing is being done are or is,
 The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject. There is no clear way to understand if something is a name; it is up to the context to specify whether or not someone is a person. We do not say `jan Anjo` like they do in toki pona. `Anjo` is enough.
 ### Verbs are Adjectives.
 There is no clear adjective-verb distinction, virtually almost every noun can be used as an adjective. This does not hold true for verb. If you want to call someone something, you should construct your sentence in a topic-comment structure.
+
+### Referring to Names
+It is good practice, in general, to refer to names by modifying `jan` with the name you wish for. That way, it is understood that the name refers to a person and not anything else. Similarly, if you want to refer to a place or a "land" you would modify `ma` with the land you want to reference. To understand why this is, look at the following:
+- 'mi wa taweru tawa inkuwanto. si wa ron ni anu seme?' = 
 
 ### Head Initial order
 Like the title suggests, this language is head initial. Therefore, your "modifiers" come *after* the head(the main verb). Since all nouns can be adjectives, they can also modify to reference the *quality* of the head. For example in English we can see this with: `speak good` and `good speak`; the former implies that speech itself is/must be good, whereas the latter implies that the *speech* itself is good. 
@@ -239,7 +254,7 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 - `o` denotes the direct object; it is the "direct object" marker. In our previous example(`taweru o kasi`), `o` is placed after `taweru`, indicating that `taweru` acts on `kasi`. Thereby, `kasi` is the **direct object**; the recipient of `taweru`.
 - `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to express the **imperative case**; By changing the predicate into a **command**.
 - `nanpa` is the **ordinal particle**; groups numbers, it is like the `-th` suffix in English.
-- `wa` is the subject/topic marker. For instance, `A wa B` means "Because/in the context of A, B". Most sentences of ours will be constructed this way.
+- `wa` is the context/relation marker. For instance, `A wa B` means "Because/about/in the context of A, B". Most sentences of ours will be constructed this way.
 - `wi` links two verbs.
 #### The particle `na` 
 It is the negation particle and denotes "not". Usually coming after the word it intends to modify(even prepositions can have a `na`). For example in 
@@ -248,13 +263,15 @@ It is the negation particle and denotes "not". Usually coming after the word it 
 It links subjects and/or objects, **but not verbs**. Functioning like the english `and`. For example,
 - `mi ne si wa ruka taweru o tomo` = "me and you are going to the house"
 Meanwhile, `nu` functions like `or`, seperating the multiple possibilities.
+- `si wa ron ni anu seme?` = "Are you there or what?".
 #### The particle `jo` 
 `jo` roughly translates to "own, possess, have"; As the *posessive* particle, it means "owned" or "possessed (by)", indicating ownership of what comes before it by what comes after it. Since this tokiponedo is using a head-initial order, `jo` modifies a verb to clarify posession, and then any further modification becomes the *recipient* of the posession. Aka, the "owner". For example,
 - `ijo ni jo mi` = "This thing is mine".
 - `tomo jo Anjo` = "Anjo's house"
 #### The particle `ni` 
 It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of all particles discussed, it is important to understand that `ni` is used for various purposes
-- as a "that/this/there/those" (`jan ni seme?)` = "who is it".
+- as a "that/this/there/those" (`jan ni seme?)` = literally "this man who?" or basically "who is it".
+- `jan seme ni` would mean "man-who this?" and while it would still make *some* sense, the demonstrative particle should modify `jan` and **not** `seme`.
 - to demonstrate emphasis, like saying "this thing here" (`ijo ni`)
 ### Questions
 `seme` forms questions. you replace the word which you seek inquiry for.
@@ -267,9 +284,14 @@ Additionally repeating the verb of the sentence in conjuction with `na`(negation
 - `mama si wa wiwe taweru na taweru o si tawa tomo jo Anjo` = "Does your mother want to move you to Anjo's house?"
 ### Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
-`mi wa taweru o tomo. tomo ni wa ron na poruta`. You could also say it in the inverse order.
-`mi wa taweru o tomo. poruta wa ron na tomo ni `. But the order depends on what you want to express.
-This is also a moment to take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*
+
+- `mi wa taweru o tomo. tomo ni wa ron na poruta`.
+
+The above literally translates to `"I moving to house. about this house, (exist) no doors"`, or `"I will move to this house. about doors, (exist) not this house".` A quick reminder of sentence structure; saying the inverse:
+
+- `mi wa taweru o tomo. poruta wa ron na tomo ni `.
+
+Would mean that there **are** doors or there **is** a door but they don't exist in *this* house. Swapping the subject with the object doesn't result in the same meaning, because the topic now becomes `poruta` and not `tomo ni`. Now let's take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence of the first example(`tomo ni wa ron na poruta`) literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*.
 ## Prepositions
 Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
 ### The preposition `tawa`
@@ -291,7 +313,7 @@ Being a derivative of `iwo`, it describes the usage. It is analogous to saying "
 - `awejan taweru iwa seme?` = "What are they moving with?". This question specifically asks which is the method of movement, or roughly the vehicle
 ### The preposition `tana`
 Being a derivative of `tan`, it means to originate from. It it similarly used to the toki pona equivelant `tan`. For instance:
-- `awejan wa tana inli` = "they are from england".
+- `awejan wa tana ma inkuwanto` = "they are from (land) england".
 ### The preposition `ron` 
 It roughly translates into "into at". It’s a locative particle that marks *both* space and time. In other words, it can refer to a specific place **in space** or a specific moment **in time**. For example,
 - `mi ne si wa ron tomo` = "me and you (are/at) the house." 
