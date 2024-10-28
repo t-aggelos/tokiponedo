@@ -111,7 +111,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | nana          | noun  | the number nine                                 |
 | ju            | noun  | the number ten                                  |
 | nin           | noun  | the number eleven                               |
-| ku            | noun  | twelve or a grouping of twelve.                 |
+| ko            | noun  | twelve or a grouping of twelve.                 |
 | uniko         | noun  | 1 dozen; 12                                  |
 | tuko         | noun  | 2 dozen; 24.                                 |
 | sanko         | noun  | 3 dozen;  36                                  |
@@ -326,15 +326,15 @@ This sentence makes a lot more sense and conveys the meaning. Regarding meaning,
 
 # Questions 2 -- "If"'s
 If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
-- `A lon ala lon B wiwe`
+- `A wa ron na ron B?` = `About A, in exists (not) exists B?` or something like `Does B exist in A` ?
 # Enumeration & Counting
 #### It is important to remember, that this language **uses** base 12. So, to properly count in this language, you must know base 12.
 ## Cardinal numbers --- "How many?"
 Since any noun can act as an adjective, all numbers can be applied to another noun to express the "quality of". To say something like two women, you would say `mewi tu`. Which roughly translates to "twos of woman". Saying the opposite(`tu mewi`) would *sort of* imply the same meaning, except you would suggest that the two(the number) itself has some quality to the noun woman(`mewi`); which is contradictory so it is preferrable you always add the cardinal noun/adjective at the end.
 ### The suffix `-ku`
-We can simply just stack numbers together: `mewi ku tu` = "women of groups of twelves of twos"; Something like this would mean "fourteen women".
+We can simply just stack numbers together: `mewi ko tu` = "women of groups of twelves of twos"; Something like this would mean "fourteen women".
 #### Keep in mind, this operation is "additive" not "multiplicative".
-While this tokiponedo remains an *analytic* language, `ku` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
+While this tokiponedo remains an *analytic* language, `ko` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
 So saying, "`there are 94 women`", you would say: `meji wa nanaku wan ron ni` which more accurately translates to `In the context of women, 94 exist at/on here.`.
 
 # Ordinal Particle -- "Nth of what?"
