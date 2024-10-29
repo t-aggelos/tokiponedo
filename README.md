@@ -2,6 +2,8 @@
 
 ### (!) First things, the point of this is to see if you could use toki pona's simplicity as a base for a language that could evolve into an auxlang.
 
+This tokiponedo is an analytic, moderately agglutinative and action-oriented language with verbs functioning simultaneously as adjectives. It is a tokiponedo at heart, and most of its vocabulary is derived from Toki Pona's. It doesn't just include `pu pi toki pona` dictionary, but also words commonly used by the community.
+
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
 ## Lexicon (128 in total; 27 verbs and 101 nouns)
@@ -186,12 +188,18 @@ The **predicate** is the thing is being done are or is,
 -   and finally:  a verb which applies it's "action" to a certain object.
 #### the subject
 The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject. There is no clear way to understand if something is a name; it is up to the context to specify whether or not someone is a person. We do not say `jan Anjo` like they do in toki pona. `Anjo` is enough.
-### Verbs are Adjectives.
+### Nouns are (plural) Adjectives.
 There is no clear adjective-verb distinction, virtually almost every noun can be used as an adjective. This does not hold true for verb. If you want to call someone something, you should construct your sentence in a topic-comment structure.
+- `jan pona` literally means "person-good". But it can also mean "people-good". Here, the noun `pona` modifies `jan` and it becomes an *adjective* expressing that `jan` has a quality of `pona`. Now the specific use with `jan` here is still sort of ambiguous. As we will see later how `jan` can be used to refer to names or peoples.
 
-### Referring to Names
+Additionally, all nouns are *both* singular and plural. You either specify, or derive the plurality of a noun from context. They are similar to the english pronoun: `you`.
+
+### Referring to Names(People, Land)
 It is good practice, in general, to refer to names by modifying `jan` with the name you wish for. That way, it is understood that the name refers to a person and not anything else. Similarly, if you want to refer to a place or a "land" you would modify `ma` with the land you want to reference. To understand why this is, look at the following:
-- 'mi wa taweru tawa inkuwanto. si wa ron ni anu seme?' = 
+- `mi wa wiweru wi tokeru o wiwe mi tawa inkuwanto ni. nijan wa paneru mute kokijari tawa mi.` = "I want to say (of) my gratitude towards this England. He/She gave me a lot of lanterns."
+- `mi wa wiweru wi tokeru o wiwe mi tawa jan inkuwanto ni. awijan wa panu o mute mute`
+
+It's obvious, that the first sentence makes no sense. There's no specific understanding of what `inkuwanto` (the general noun to refer to England and the English) is. However, the second clarifies the sentence quite well by explicitly stating that `inkuwanto ni` is a `jan` (person / people).
 
 ### Head Initial order
 Like the title suggests, this language is head initial. Therefore, your "modifiers" come *after* the head(the main verb). Since all nouns can be adjectives, they can also modify to reference the *quality* of the head. For example in English we can see this with: `speak good` and `good speak`; the former implies that speech itself is/must be good, whereas the latter implies that the *speech* itself is good. 
@@ -280,8 +288,8 @@ It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of
 - `seme wa Anjo` = "what(subject) is Anjo?" = "Who's Anjo?" 
 - `jan nimi wa seme?` = "person's name is what?" = "what is their name" ?
 Additionally repeating the verb of the sentence in conjuction with `na`(negation particle) forms **yes or no** questions.
-- `si wa wiwe mokeru na mokeru o kasi?` = "Do you want or not want to eat the fruit" = Do you want to eat the fruit? (while expecting a yes or no as an answer).
-- `mama si wa wiwe taweru na taweru o si tawa tomo jo Anjo` = "Does your mother want to move you to Anjo's house?"
+- `si wa wiweru wi mokeru na mokeru o kasi?` = "Do you want or not want to eat the fruit" = Do you want to eat the fruit? (while expecting a yes or no as an answer).
+- `mama si wa wiweru wi taweru na taweru o si tawa tomo jo Anjo` = "Does your mother want to move you to Anjo's house?"
 ### Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
 
@@ -335,7 +343,7 @@ In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarif
 - `jari pona` = literally `good day`. It means hello.
 - `A sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
 
-## Chaining verbs
+## Chaining verbs - Expressing a Wish or Desire
 Like we saw in particles, chaining verbs is done using `wi`. Think of 
 - `taneru wi taweru`  = "originate (to) move."
 
@@ -344,7 +352,7 @@ Well that didn't really make a lot of sense.. "to originate to move" is nonsensi
 Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which together would mean "try to move to". For example, 
 - `mi wa wiweru wi paweru wi taweru tawa sina` = "I want to try to move towards you". 
 
-This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move".
+This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move". This usage of `wiweru` is analogous to what the optative mood is in other languages, with the exception that there are no true moods here -- but a combination of actions describes the action in detail.
 
 # Questions 2 -- "If"'s
 If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
@@ -359,7 +367,7 @@ We can simply just stack numbers together: `mewi ko tu` = "women of groups of tw
 While this tokiponedo remains an *analytic* language, `ko` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
 So saying, "`there are 94 women`", you would say: `meji wa nanaku wan ron ni` which more accurately translates to `In the context of women, 94 exist at/on here.`.
 
-# Ordinal Particle -- "Nth of what?"
+# Ordinal Numbers -- "Nth of what?"
 If you wanted to say "`she is the 94th woman here`", you wouldn't *exactly say* that as the grammar works quite differently. You would say something like `about her, the 94th woman`, **using** the cardinal particle `nanpa`. Thus, our previous example becomes:
 - `nijan wa meji nanpa tu ron ni` = "she is the 94th woman here."
 
