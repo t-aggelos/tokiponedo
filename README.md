@@ -209,11 +209,11 @@ In toki pona, verbs are also nouns. This isn't really true in this tokiponedo. I
 - To make a verb a noun you simply append `ijo` to the noun.
 - To make a noun a Verb you simply append `ru` to the noun.
 Appending both does NOT mean that the word now is *both* a verb and a noun. It is always the suffix, that determines what the verb is (noun by `ijo` or verb by `ru`). Additionally, There are some "phono-tactic" rules when we are *mutating* a word.
-### **if we are making a verb a noun**:
+#### **if we are making a verb a noun**:
 1. if the second to last syllable contains an "`e`" it becomes an `a`.
 2. if the last syllable is open (no n) then you only add "`jo`".
 3. if the last syllable has a final n (coda), you add "`ijo`".
-### **if we are making a noun a verb**:
+#### **if we are making a noun a verb**:
 1. if the second to last syllable contains an "`a`"w it becomes an `e` and append `-ru`
 2. if the last syllable starts with consonant `r` or `k`, then you don't append but the vowel of the syllable becomes an "`u`"
 3. if the last syllable has a final n (coda), you add "`ijo`".
