@@ -252,6 +252,18 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 - `nanpa` is the **ordinal particle**; groups numbers, it is like the `-th` suffix in English.
 - `wa` is the context/relation marker. For instance, `A wa B` means "Because/about/in the context of A, B". Most sentences of ours will be constructed this way.
 - `wi` links two verbs.
+### Chaining Verbs 
+Verb chaining is a linguistic concept where multiple verbs are linked together in a sentence, to express a sequence of actions or to modify the meaning of one another. In this tokiponedo this is done using `wi`. For example
+- `taneru wi taweru`  = "originate (to) move."
+As meaning roughly after `taneru` the `wi` becomes to mean something like "*in order to*" taweru. Therefore that(`taneru wi taweru`) could be interperted as "originate to move to". Again, the usage of this must be **highly dependent** on the meaning of the verbs. 
+
+Well that didn't really make a lot of sense.. "to originate to move" is nonsensical after all. So, let's look at another example.
+
+Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which together would mean "try to move to". For example, 
+- `mi wa wiweru wi paweru wi taweru tawa sina` = "I want to try to move towards you". 
+#### Importance of context!
+This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move". This usage of `wiweru` is analogous to what the optative mood is in other languages, with the exception that there are no true moods here -- but a combination of actions describes the action in detail.
+
 #### The particle `na` 
 It is the negation particle and denotes "not". Usually coming after the word it intends to modify(even prepositions can have a `na`). For example in 
 -  mi wi ru **na**  o ni. (I am **not** doing that)
@@ -332,18 +344,6 @@ In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarif
 - `e kameru pona!` = 'welcome!'
 - `jari pona` = literally `good day`. It means hello.
 - `A sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
-
-### Chaining verbs - Expressing a Wish or Desire
-Like we saw in particles, chaining verbs is done using `wi`. Think of 
-- `taneru wi taweru`  = "originate (to) move."
-
-As meaning roughly after `taneru` the `wi` becomes to mean something like "*in order to*" taweru. Therefore that(`taneru wi taweru`) could be interperted as "originate to move to". Again, the usage of this must be **highly dependent** on the meaning of the verbs. 
-Well that didn't really make a lot of sense.. "to originate to move" is nonsensical after all. So, let's look at another example.
-Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which together would mean "try to move to". For example, 
-- `mi wa wiweru wi paweru wi taweru tawa sina` = "I want to try to move towards you". 
-
-This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move". This usage of `wiweru` is analogous to what the optative mood is in other languages, with the exception that there are no true moods here -- but a combination of actions describes the action in detail.
-
 ## Enumeration & Counting
 #### It is important to remember, that this language **uses** base 12. So, to properly count in this language, you must know base 12.
 ## Cardinal numbers --- "How many?"
