@@ -138,7 +138,6 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ekako         | noun  | the number 1728.                              |
 | inkuwanto     | noun  | phonetic transcription of "England".          |
 | ewinasu       | noun  | phonetic transcription of "Έλληνας" (Greece)  |
-
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
 |  Vowels | IPA Representation |
@@ -159,7 +158,6 @@ And the consonants are:
 | **s**      | /s/                |
 | **k**      | /k/                |
 | **r**      | /ɾ/                |
-
 ## Syllables
 Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `v` is a vowel. And `(n)` is an optional coda(an `n`) that can be included at the end. While technically vowel(sequences are allowed up to 2), however, they're almost never used. In short, vowel clusters *are* possible; but they've never been encountered. However, the following consonant clusters and sequences are forbidden:
 - `nm`
@@ -171,12 +169,10 @@ Singular
 - `mi` = "I/mine"
 - `si` = "You/yours"
 - `nijan `= "He/she/it/him/her"
-
 Plural:
 - `mai` = "We"
 - `sai` = "you(plural)"
 - `awejan` = They/them"
-
 Pronouns can also become *possessive*, but we'll look into that later.
 ## The Basics of a Sentence
 A sentence is composed of a subject and a predicate with some following prepositions. Now, a predicate may contain preverbs.
@@ -186,25 +182,9 @@ The **predicate** is the thing is being done are or is,
 -   or a description; like blue, good, tall
 -   or a thing; like house, animal, food
 -   and finally:  a verb which applies it's "action" to a certain object.
-#### the subject
+### the subject
 The **subject** is generally the maker, or doer of the predicate. Likewise, the predicate *describes* something about the subject. There is no clear way to understand if something is a name; it is up to the context to specify whether or not someone is a person. We do not say `jan Anjo` like they do in toki pona. `Anjo` is enough.
-### Nouns are (plural) Adjectives.
-There is no clear adjective-verb distinction, virtually almost every noun can be used as an adjective. This does not hold true for verb. If you want to call someone something, you should construct your sentence in a topic-comment structure.
-- `jan pona` literally means "person-good". But it can also mean "people-good". Here, the noun `pona` modifies `jan` and it becomes an *adjective* expressing that `jan` has a quality of `pona`. Now the specific use with `jan` here is still sort of ambiguous. As we will see later how `jan` can be used to refer to names or peoples.
-
-Additionally, all nouns are *both* singular and plural. You either specify, or derive the plurality of a noun from context. They are similar to the english pronoun: `you`.
-
-### Referring to Names(People, Land)
-It is good practice, in general, to refer to names by modifying `jan` with the name you wish for. That way, it is understood that the name refers to a person and not anything else. Similarly, if you want to refer to a place or a "land" you would modify `ma` with the land you want to reference. To understand why this is, look at the following:
-- `mi wa wiweru wi tokeru o wiwe mi tawa inkuwanto ni. nijan wa paneru mute kokijari tawa mi.` = "I want to say (of) my gratitude towards this England. He/She gave me a lot of lanterns."
-- `mi wa wiweru wi tokeru o wiwe mi tawa jan inkuwanto ni. awijan wa panu o mute mute`
-
-It's obvious, that the first sentence makes no sense. There's no specific understanding of what `inkuwanto` (the general noun to refer to England and the English) is. However, the second clarifies the sentence quite well by explicitly stating that `inkuwanto ni` is a `jan` (person / people).
-
-### Head Initial order
-Like the title suggests, this language is head initial. Therefore, your "modifiers" come *after* the head(the main verb). Since all nouns can be adjectives, they can also modify to reference the *quality* of the head. For example in English we can see this with: `speak good` and `good speak`; the former implies that speech itself is/must be good, whereas the latter implies that the *speech* itself is good. 
-
-## Sentence Structure
+### Sentence Structure
 Now to provide more info on the sentence structure, it's *almost* like toki pona's. a sentence could be: 
 `{ [(A|<preposition>|<sentence>|)]* wa B [<preverb><verb>]* o C [kin D]* [<preposition>]* }`. Where,
 - `<sentence>` stands for any well-formed sentence here
@@ -212,34 +192,42 @@ Now to provide more info on the sentence structure, it's *almost* like toki pona
 - `<preposition>`stands for any valid preposition
 - `(X|Y|Z)` stands for "pick either X, Y, or Z"
 - The asterisk (`*`) means that an object of the same form as the preceding one may occur any number of times (*including* zero)
-## Verbs & Nouns
+## Word Derivations
+Base modifiers are also quite easy to convert. When a modifier is used as a noun, it becomes the abstract object of the modifier. Think of it like adding "-ness" to the word, or a quality of thereof to the word.
+### Nouns are (plural) Adjectives.
+Like we discussed earlier, there is no clear adjective-verb distinction; virtually almost every noun can be used as an adjective. This does not hold true for verbs.  Additionally, all nouns are *both* singular and plural. You either specify, or derive the plurality of a noun from context. They are similar to the english pronoun: `you`.
+### Head Initial order
+Like the title suggests, this language is head initial. Therefore, your "modifiers" come *after* the head(the main verb). Since all nouns can be adjectives, they can also modify to reference the *quality* of the head. For example in English we can see this with: `speak good` and `good speak`; the former implies that speech itself is/must be good, whereas the latter implies that the *speech* itself is good. If you want to call someone something, you should construct your sentence in a topic-comment structure.
+- `jan pona` literally means "person-good". But it can also mean "people-good". Here, the noun `pona` modifies `jan` and it becomes an *adjective* expressing that `jan` has a quality of `pona`. Now the specific use with `jan` here is still sort of ambiguous. As we will see later how `jan` can be used to refer to names or peoples.
+### Referring to Names(People, Land)
+It is good practice, in general, to refer to names by modifying `jan` with the name you wish for. That way, it is understood that the name refers to a person and not anything else. Similarly, if you want to refer to a place or a "land" you would modify `ma` with the land you want to reference. To understand why this is, look at the following:
+- `mi wa wiweru wi tokeru o wiwe mi tawa inkuwanto ni. nijan wa paneru mute kokijari tawa mi.` = "I want to say (of) my gratitude towards this England. He/She gave me a lot of lanterns."
+- `mi wa wiweru wi tokeru o wiwe mi tawa jan inkuwanto ni. awijan wa panu o mute mute`
+It's obvious, that the first sentence makes no sense. There's no specific understanding of what `inkuwanto` (the general noun to refer to England and the English) is. However, the second clarifies the sentence quite well by explicitly stating that `inkuwanto ni` is a `jan` (person / people).
+### Verbs & Nouns
 In toki pona, verbs are also nouns. This isn't really true in this tokiponedo. Instead, we mutate the suffix of a word to "verb"-ify it and "noun"-ify it. 
 - To make a verb a noun you simply append `ijo` to the noun.
 - To make a noun a Verb you simply append `ru` to the noun.
-
 Appending both does NOT mean that the word now is *both* a verb and a noun. It is always the suffix, that determines what the verb is (noun by `ijo` or verb by `ru`). Additionally, There are some "phono-tactic" rules when we are *mutating* a word.
 ### **if we are making a verb a noun**:
 1. if the second to last syllable contains an "`e`" it becomes an `a`.
 2. if the last syllable is open (no n) then you only add "`jo`".
 3. if the last syllable has a final n (coda), you add "`ijo`".
-
 ### **if we are making a noun a verb**:
-
 1. if the second to last syllable contains an "`a`"w it becomes an `e` and append `-ru`
 2. if the last syllable starts with consonant `r` or `k`, then you don't append but the vowel of the syllable becomes an "`u`"
 3. if the last syllable has a final n (coda), you add "`ijo`".
-
 This way most verbs would end in `ru` or `ju`. you can see this with the following examples:
 - `kiwan` is a noun while it's verb form is `kiwenru`.
 - `wiwe` is a noun while it's verb form is `wiweru`
-## The irregulars that don't follow the `a -> e` or `e -> a` rule are
-This list is non-exhaustive and there may be more irregulars. Usually these consist of loan words, or other borrowed terms.
+## The irregulars that don't follow the `a -> e` or `e -> a` rule are:
 - `awi`
 - `tatetajo`
 - `rua`
 - `wanu`
 - `soju`
 - `pawi`
+This list is non-exhaustive and there may be more irregulars. Usually these consist of loan words, or other borrowed terms.
 ## Preverbs
 Preverbs are used to modify the **verb** that simple modifiers cannot. They usually inform us about the **tense** that the verb is taking place in. They are added *before* the verb you want to modify. Otherwise, they simply express a *quality* of the verb, due to the nature of head-initial order modification. You can chain as many as you'd like, and in this situation, normal head-initial order holds true. 
 Most preverbs will mostly consist of `a` sounding syllables. But here's a non exhaustive list.
@@ -290,7 +278,9 @@ It is analogous to "this", "that"; It is the **demonstrative particle**.  Out of
 Additionally repeating the verb of the sentence in conjuction with `na`(negation particle) forms **yes or no** questions.
 - `si wa wiweru wi mokeru na mokeru o kasi?` = "Do you want or not want to eat the fruit" = Do you want to eat the fruit? (while expecting a yes or no as an answer).
 - `mama si wa wiweru wi taweru na taweru o si tawa tomo jo Anjo` = "Does your mother want to move you to Anjo's house?"
-### Recursion
+If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
+- `A wa ron na ron B?` = `About A, in exists (not) exists B?` or something like `Does B exist in A` ?
+## Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
 
 - `mi wa taweru o tomo. tomo ni wa ron na poruta`.
@@ -335,7 +325,7 @@ Like we discussed earlier, and particularly visible in the first sentence, you d
 - `Anjo wa tokeru o A ni sama mi` = "Anjo is speaking of (this) A like me.".
 - `Anjo wa sama mi` = "Anjo is like me"
 In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarifies the verb of the predicate. However, `wa` here is more general: implying the context(sometimes casual sometimes not). If you're familiar with other languages, it is  *sort of* like the topic marker in Japaense; in the sense that it can also imply the subject.
-### Expressions and Customs
+## Expressions and Customs
 - `ron naijo` = literally "present in nothing". For instance this can be used to describe actions **in vain**(notice how similar this expression is in english too.)
 - `ron tenpo ni` = "present in current time" ("this" time)
 - `e jan awi!` = 'hey everyone'.
@@ -343,7 +333,7 @@ In classic toki pona speech, the `wa` wouldn't be put as their equivelant clarif
 - `jari pona` = literally `good day`. It means hello.
 - `A sama B` = `A is like B`, where A is the context. Here sama functions as an **adjective** rather than noun. And the sentence most accurately translates to: `me-like B`.
 
-## Chaining verbs - Expressing a Wish or Desire
+### Chaining verbs - Expressing a Wish or Desire
 Like we saw in particles, chaining verbs is done using `wi`. Think of 
 - `taneru wi taweru`  = "originate (to) move."
 
@@ -354,10 +344,7 @@ Let's attempt to link *to try to*(`paweru`) with *move*(`taweru`), which togethe
 
 This sentence makes a lot more sense and conveys the meaning. Regarding meaning, the aforementioned example literally translates to:  me want (to) try/attempt/struggle (to) move to (towards) you. Here, `wiweru` is used in conjuction with `taweru` to mean "want, in order/to, move". This usage of `wiweru` is analogous to what the optative mood is in other languages, with the exception that there are no true moods here -- but a combination of actions describes the action in detail.
 
-# Questions 2 -- "If"'s
-If we want to talk about if something is true, we can use the particle `ron` which implies existence and position in conjuction with the context marker `wa`:
-- `A wa ron na ron B?` = `About A, in exists (not) exists B?` or something like `Does B exist in A` ?
-# Enumeration & Counting
+## Enumeration & Counting
 #### It is important to remember, that this language **uses** base 12. So, to properly count in this language, you must know base 12.
 ## Cardinal numbers --- "How many?"
 Since any noun can act as an adjective, all numbers can be applied to another noun to express the "quality of". To say something like two women, you would say `mewi tu`. Which roughly translates to "twos of woman". Saying the opposite(`tu mewi`) would *sort of* imply the same meaning, except you would suggest that the two(the number) itself has some quality to the noun woman(`mewi`); which is contradictory so it is preferrable you always add the cardinal noun/adjective at the end.
