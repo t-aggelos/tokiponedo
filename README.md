@@ -6,7 +6,7 @@ This tokiponedo is an analytic, moderately agglutinative and action-oriented lan
 
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (128 in total; 27 verbs and 101 nouns)
+## Lexicon (129 in total; 27 verbs and 102 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -63,6 +63,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ripu          | noun  | a flat and bendable object often used for writing; paper, text, document etc. |
 | siteren       | noun  | marking, writing, carving.                     |
 | naijo         | noun  | et ijo + (na); empty, void, nothing, zero      |
+| nanpa         | noun  | number; -th particle                           |
 | tatetajo      | noun  | stature, standing, posture                     |
 | taso          | noun  | only, exclusively; but, however                |
 | pawi          | noun  | work, strenuous activity, attempt; project     |
@@ -249,9 +250,12 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker. In our previous example(`taweru o kasi`), `o` is placed after `taweru`, indicating that `taweru` acts on `kasi`. Thereby, `kasi` is the **direct object**; the recipient of `taweru`.
 - `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to express the **imperative case**; By changing the predicate into a **command**.
-- `nanpa` is the **ordinal particle**; groups numbers, it is like the `-th` suffix in English.
 - `wa` is the context/relation marker. For instance, `A wa B` means "Because/about/in the context of A, B". Most sentences of ours will be constructed this way.
 - `wi` links two verbs.
+### Pseudo-Particles
+Pseudo particles are words that *can* act like particles, but they're also nouns. For example `nanpa`.
+- `nanpa` is the **ordinal particle**; it is like the `-th` suffix in English.
+We will go over in detail about this particle in later chapters.
 ### Chaining Verbs 
 Verb chaining is a linguistic concept where multiple verbs are linked together in a sentence, to express a sequence of actions or to modify the meaning of one another. In this tokiponedo this is done using `wi`. For example
 - `taneru wi taweru`  = "originate (to) move."
@@ -294,13 +298,9 @@ If we want to talk about if something is true, we can use the particle `ron` whi
 - `A wa ron na ron B?` = `About A, in exists (not) exists B?` or something like `Does B exist in A` ?
 ## Recursion
 Recursion is a bit tricky; and will be discussed once i update this text. For now I advice simply closing your sentences and using anaphora or the demonstrative particle to refer to something in another sentence. For example, "I will move to the house that has no doors" could be:
-
 - `mi wa taweru o tomo. tomo ni wa ron na poruta`.
-
 The above literally translates to `"I moving to house. about this house, (exist) no doors"`, or `"I will move to this house. about doors, (exist) not this house".` A quick reminder of sentence structure; saying the inverse:
-
 - `mi wa taweru o tomo. poruta wa ron na tomo ni `.
-
 Would mean that there **are** doors or there **is** a door but they don't exist in *this* house. Swapping the subject with the object doesn't result in the same meaning, because the topic now becomes `poruta` and not `tomo ni`. Now let's take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence of the first example(`tomo ni wa ron na poruta`) literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*.
 ## Prepositions
 Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
@@ -309,11 +309,9 @@ Being a derivative of `taweru`(to move) it describes movement towards a specific
 - `mi wi taweru o ijo tawa si` = "I am moving the thing **towards** you"
 - `ijo wi tawa si` = "the thing is moving **towards** you".
 - `ijo wi taweru tawa seme` = literally: the thing moving towards what? = "what is it moving towards?".
-
 Notice how, if we were to introduce `o` the meaning would change:
 - `ijo wi taweru o seme?` = "it is moving the what?" = "What is it moving?"
 - `ijo wi taweru o ni tawa seme` = "it is moving the **this** towards what?".  After all, ni can also refer to "this/that" like we saw.
-
 Remember: This would have a completely different meaning if we said `ijo wi taweru o si`. As that would mean "the thing is moving **you**". This is because `o` marks the direct object(the recipient of the action).
 Therefore, the exact meaning of `tawa` depends on its usage.
 ### The preposition `iwa`
@@ -329,7 +327,6 @@ It roughly translates into "into at". It’s a locative particle that marks *bot
 - `mi ne si wa ron tomo` = "me and you (are/at) the house." 
 - `mi wa ru na ron tenpo ni` = "I'm not doing anything right now"
 - `mi wa tokeru o awejan ron tomo` = "I am speaking to them in the house"
-
 Like we discussed earlier, and particularly visible in the first sentence, you do not need to state that the subject(`mi ne si`) "is". `wa` means roughly "in the context of" or "about". Here, it means something more like "about, existing/thus,". Putting it all together the first sentence is more directly translated to: "About me and you, thus existing, on the house". It is a faster way to convey the more general translation that is provided. Another example of how `na` could be used in conjuction with the preposition is:
 - `mi wa tokeru o awejan tawa Anjo sama na Koto` = "I am speaking about them to Anjo, in the manner, unlike Koto".
 ### The preposition `sama` -- A-like B.
@@ -353,9 +350,7 @@ We can simply just stack numbers together: `mewi ko tu` = "women of groups of tw
 #### Keep in mind, this operation is "additive" not "multiplicative".
 While this tokiponedo remains an *analytic* language, `ko` is one of those cases where it is acceptable to add it as a suffix. For instance the word `nana` is the number 9. `nanaku` means 9 groups of twelves; the mathematical operation of 9 **\*** 12. As we can see, when we're making numbers(as nouns), the combination operation becomes *multiplicative*.
 So saying, "`there are 94 women`", you would say: `meji wa nanaku wan ron ni` which more accurately translates to `In the context of women, 94 exist at/on here.`.
-
 # Ordinal Numbers -- "Nth of what?"
 If you wanted to say "`she is the 94th woman here`", you wouldn't *exactly say* that as the grammar works quite differently. You would say something like `about her, the 94th woman`, **using** the cardinal particle `nanpa`. Thus, our previous example becomes:
 - `nijan wa meji nanpa tu ron ni` = "she is the 94th woman here."
-
 **However** `meji wa nanpa tu` is grammatically incorrect since `nanpa` is  used in conjunction(like other particles) with a noun directly related to it. It can not be applied to `wa`, which is itself a marker.
