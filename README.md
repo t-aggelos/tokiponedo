@@ -220,7 +220,7 @@ Appending both does NOT mean that the word now is *both* a verb and a noun. It i
 This way most verbs would end in `ru` or `ju`. you can see this with the following examples:
 - `kiwan` is a noun while it's verb form is `kiwenru`.
 - `wiwe` is a noun while it's verb form is `wiweru`
-## The irregulars that don't follow the `a -> e` or `e -> a` rule are:
+#### The irregulars that don't follow the `a -> e` or `e -> a` rule are:
 - `awi`
 - `tatetajo`
 - `rua`
