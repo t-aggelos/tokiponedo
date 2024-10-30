@@ -6,7 +6,7 @@ This tokiponedo is an analytic, moderately agglutinative and action-oriented lan
 
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (131 in total; 29 verbs and 102 nouns)
+## Lexicon (133 in total; 30 verbs and 103 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -14,6 +14,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | konju         | verb | follow, chase, go after                         |
 | weku          | verb | throw away, to get rid of, to wipe off          |
 | tatetari      | verb | to rise, to stand up                            |
+| oweru         | verb | to love.                                        |
 | panu          | verb | to give, send, provide                          |
 | wasu          | verb | to fly, to soar                                 |
 | soju          | verb | to grow, flourish, flower                       |
@@ -42,6 +43,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ja            | noun  | sun                                            |
 | jowa          | noun  | moon, luna                                     |
 | ma            | noun  | land, earth, soil                              |
+| owin          | noun  | lover, partner, husband, wife, fiance etc.     |
 | oja           | noun  | parent, caretaker.                             |
 | majan         | noun  | country, territory, province                   |
 | tajun         | noun  | inside, within; interior                       |
