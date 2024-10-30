@@ -6,7 +6,7 @@ This tokiponedo is an analytic, moderately agglutinative and action-oriented lan
 
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (129 in total; 27 verbs and 102 nouns)
+## Lexicon (131 in total; 29 verbs and 102 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
@@ -31,6 +31,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | wiweru        | verb | to want, to desire, to wish; to hope            |
 | taweru        | verb | to move, to stride, walk                        |
 | taneru        | verb | to start, to begin, to initiate                 |
+| anteru        | verb | to diferentiate, to distingusih                 |
+| taseru        | verb | to exclude, to leave out.                       |
 | poneru        | verb | to improve, to "goodify", to make better        |
 | toku          | verb | to speak, to say, to communicate                |
 | ruku          | verb | to continue                                     |
@@ -66,6 +68,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | nanpa         | noun  | number; -th particle                           |
 | tatetajo      | noun  | stature, standing, posture                     |
 | taso          | noun  | only, exclusively; but, however                |
+| ante          | noun  | differently, otherwise; "on the other hand"    |
 | pawi          | noun  | work, strenuous activity, attempt; project     |
 | jan           | noun  | person, human being                            |
 | piwi          | noun  | preference, choice                             |
@@ -93,7 +96,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | iwo           | noun  | tool, implement, machine                        |
 | soweri        | noun  | beast, animal                                   |
 | suko          | noun  | mushroom, fungi with a cap                     |
-| kasi          | noun  | herb, leaf; the green of the leaf              |
+| kasi          | noun  | herb, vegetable, leaf; the green of the leaf    |
 | weka          | noun  | absent, removed, distant                        |
 | sujo          | noun  | flora, vegetation, plant, growth, flourishing   |
 | mewoja        | noun  | et. mewi + oja = mother, mother figure         |
@@ -250,12 +253,29 @@ Having no *tense* preverb, means that the action is assumed to be happening once
 ### Marker particles
 - `o` denotes the direct object; it is the "direct object" marker. In our previous example(`taweru o kasi`), `o` is placed after `taweru`, indicating that `taweru` acts on `kasi`. Thereby, `kasi` is the **direct object**; the recipient of `taweru`.
 - `e` the closest to the **vocative** case. Saying `e X` is equivelant to "hey X!". It can also be used in the place of `wa` to express the **imperative case**; By changing the predicate into a **command**.
-- `wa` is the context/relation marker. For instance, `A wa B` means "Because/about/in the context of A, B". Most sentences of ours will be constructed this way.
+- `wa` is the context/relation marker. For instance, `A wa B` means "Because/about/in the context of A, B". Most sentences of ours will be constructed this way. Using `wa` relates whats after it as the main topic of the clause/sentence. For example: `kin wa, mi wa,` would mean something like "additionally, about me". We will look into the use of `kin` more analytically in later chapters.
 - `wi` links two verbs.
+- `pi` regroups modification such that what's before it, is modified by what's after it. Consider it more of like parenthesis that restructure a phrase such that the head-noun modification happens elsewhere. For example,
+`ma sujo ma ikuwanto` = land vegetable  
 ### Pseudo-Particles
-Pseudo particles are words that *can* act like particles, but they're also nouns. For example `nanpa`.
-- `nanpa` is the **ordinal particle**; it is like the `-th` suffix in English.
-We will go over in detail about this particle in later chapters.
+Pseudo particles are words that *can* act like particles, but they're also nouns. For example `nanpa`. Regarding the use of `wa`, there's no direct way to address the subject of a sentence or clause. wa simply adds context to what's being said. Thus, it is a practice to isolate your thoughts as much as possible, or include the subject at the end of a sentence. If you want to address multiple distinct subjects (something that can't be achieved by just using pronouns) consider using the particle `ne`. For example, if you want to say something like `you and I move to the house`:
+- `mi wa, sina wa, taweru tawa tomo jo mi` = `Regarding me, (the topic changes to be onto sina) you go to the house (owned by) me` = `About me, you go to my house`. This understandably makes little sense.
+- `mi ne sina wa taweru tawa tomo jo mi` = `Regarding you and I, move to the house (owned by) me` = `you and I move to my house`. This makes a lot more sense for our goal.
+- `nanpa` is the **ordinal particle**; it is like the `-th` suffix in English. We will go over in detail about this particle in later chapters.
+- `taso` expresses **contradiction** and/or exclusivity; marking something as contrary or exclusive to the rest. It can mean `however, but, only` etc.
+- `ante` expresses **difference** that's not necessarily a *contradiction*. Using `wa`; `ante wa`, can mean something like "regarding this other" or "in the other hand".
+- `kin` expresses *addition** and it is an additive marker; marking something as being in some what contextually significant to the rest. It can mean `also, additionally` etc.
+### The pseudo-particle `taso`
+The word `taso` can indicate that the marked phrase is the "only" thing that the sentences statement applies to. Sentence initially, it marks the whole sentence as contrary to some previous statement, like English "but". In some contexts, it can even work as a head-noun.
+### The pseudo-particle `kin`
+`kin` can be appended like a modifier to any phrase, but cannot occur as a head itself. The only exception is in the context-phrase `kin wa`, where it marks the whole following sentence as an addition to what was already said.
+
+#### Examples of different placement:
+- `ron tomo ne soweri pi ma sujo wa, kasi wa, nijan taso wa taweru o kasi` = "At the house and the beast of the forest, regarding (a) plant, only he/she/it move the plant."
+- `njian wa taweru taso o kasi` = "he/she/it only move the plant."
+- `njian kin wa taweru taso o kasi` = `he/she/it *also* move the plant."
+- `taso wa, awijan taweru taso o kasi` = "However, only *they(plural)* can move the plant".
+- `kin wa, ni wa taweru o kasi` = "Furthermore, this moves the plant".
 ### Chaining Verbs 
 Verb chaining is a linguistic concept where multiple verbs are linked together in a sentence, to express a sequence of actions or to modify the meaning of one another. In this tokiponedo this is done using `wi`. For example
 - `taneru wi taweru`  = "originate (to) move."
@@ -274,8 +294,10 @@ It is the negation particle and denotes "not". Usually coming after the word it 
 #### The particles `ne` and `nu` 
 It links subjects and/or objects, **but not verbs**. Functioning like the english `and`. For example,
 - `mi ne si wa ruka taweru o tomo` = "me and you are going to the house"
-Meanwhile, `nu` functions like `or`, seperating the multiple possibilities.
+Meanwhile, `anu` functions like `or`, seperating the multiple possibilities.
+- `mi anu si wa ruka taweru o tomo` = "me **or** you are going to the house".
 - `si wa ron ni anu seme?` = "Are you there or what?".
+The use of `anu` is highly appropriate on context, and I can only suggest that you use a context-appropriate "`anu`-phrase". `anu` can only seperate objects or subjects like `ne` does. 
 #### The particle `jo` 
 `jo` roughly translates to "own, possess, have"; As the *posessive* particle, it means "owned" or "possessed (by)", indicating ownership of what comes before it by what comes after it. Since this tokiponedo is using a head-initial order, `jo` modifies a verb to clarify posession, and then any further modification becomes the *recipient* of the posession. Aka, the "owner". For example,
 - `ijo ni jo mi` = "This thing is mine".
