@@ -325,7 +325,7 @@ Recursion is a bit tricky; and will be discussed once i update this text. For no
 - `mi wa taweru o tomo. tomo ni wa ron na poruta`.
 The above literally translates to `"I moving to house. about this house, (exist) no doors"`, or `"I will move to this house. about doors, (exist) not this house".` A quick reminder of sentence structure; saying the inverse:
 - `mi wa taweru o tomo. poruta wa ron na tomo ni `.
-Would mean that there **are** doors or there **is** a door but they don't exist in *this* house. Swapping the subject with the object doesn't result in the same meaning, because the topic now becomes `poruta` and not `tomo ni`. Now let's take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence of the first example(`tomo ni wa ron na poruta`) literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*.
+Would mean that there **regarding** doors they don't exist in *this* house. Now let's take a minute and describe how `wa` can also mean "has". By using `wa`, we're simply implying a relationship between the subject and the predicate. The second sentence of the first example(`tomo ni wa ron na poruta`) literally means "in the context of this house, there (exist) no doors".  Of course 'exist' is implied, ron mostly means *present*.
 ## Prepositions
 Prepositions are used to further describe the *manner* of the predicate. They indicate information about where, whither, whence, how, or whereby the predicate is performed.
 ### The preposition `tawa`
