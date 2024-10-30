@@ -31,7 +31,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | wiweru        | verb | to want, to desire, to wish; to hope            |
 | taweru        | verb | to move, to stride, walk                        |
 | taneru        | verb | to start, to begin, to initiate                 |
-| anteru        | verb | to diferentiate, to distingusih                 |
+| anteru        | verb | to diferentiate, to distinguish                 |
 | taseru        | verb | to exclude, to leave out.                       |
 | poneru        | verb | to improve, to "goodify", to make better        |
 | toku          | verb | to speak, to say, to communicate                |
