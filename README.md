@@ -48,6 +48,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | majan         | noun  | country, territory, province                   |
 | tajun         | noun  | inside, within; interior                       |
 | sewo          | noun  | outer layer; skin, peel, shell, bark           |
+| sewupo        | noun  | "the layer below";  the upper most grass/rock of the nethers |
+| sewepi        | noun  | "the layer above"; the upper most grass/rock of the heavens |
 | tan           | noun  | origin, start, beginning                       |
 | tewo          | noun  | liquid; can also mean water.                   |
 | rua           | noun  | the flow, liquid movement                      |
@@ -59,8 +61,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | uta           | noun  | a mouth or any consuming orifice of a being.   |
 | tatenoka      | noun  | leg; part of anything which makes something stand. |
 | noka          | noun  | foot; base of a leg.                           |
-| uporawa       | noun  | et. above + lawa(toki pona for head), skull, cranium|
-| tajurawa      | noun  | brain, mind.                                   |
+| rawupo        | noun  | et. above + lawa(toki pona for head), skull, cranium |
+| konrawa       | noun  | brain, mind, soul                              |
 | soje          | noun  | a flower, a fruit; the produce.                |
 | tenpo         | noun  | time, moment, period, duration                 |
 | awi           | noun  | all, everything; infinity                      |
@@ -96,9 +98,9 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | kokijari      | noun  | et. koki + jari = lantern, lamp.               |
 | tomojari      | noun  | et. tomo + jari = residence/domain of light.  |
 | iwo           | noun  | tool, implement, machine                        |
-| soweri        | noun  | beast, animal                                   |
+| soweri        | noun  | beast, animal; fauna                            |
 | suko          | noun  | mushroom, fungi with a cap                     |
-| kasi          | noun  | herb, vegetable, leaf; the green of the leaf    |
+| kasi          | noun  | (an edible) herb, vegetable, leaf; as a color, it's the green of the leaf |
 | weka          | noun  | absent, removed, distant                        |
 | sujo          | noun  | flora, vegetation, plant, growth, flourishing   |
 | mewoja        | noun  | et. mewi + oja = mother, mother figure         |
