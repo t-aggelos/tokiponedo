@@ -169,7 +169,7 @@ Every syllable's structure is `(c)v(n)`. Where `(c)` is an optional consonant, `
 - `nm`
 - `nn`
 - `ji` 
-Therefore, the rule is in short: "there can not be any word who's syllable is `ji` or ends with `n` and the next syllable starts with `n` or `m`."
+#### Therefore, the rule is in short: "there can not be any word who's syllable is `ji` or ends with `n` and the next syllable starts with `n` or `m`."
 ## Pronouns
 Singular
 - `mi` = "I/mine"
