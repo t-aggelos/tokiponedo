@@ -13,7 +13,7 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | aru           | verb | cast, the direction of light; also means ray    |
 | konju         | verb | follow, chase, go after                         |
 | weku          | verb | throw away, to get rid of, to wipe off          |
-| tatetari      | verb | to rise, to stand up                            |
+| tatetari      | verb | **Japanese loanword;*** to rise, to stand up                            |
 | oweru         | verb | to love.                                        |
 | panu          | verb | to give, send, provide                          |
 | wasu          | verb | to fly, to soar                                 |
@@ -91,7 +91,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | kin           | noun  | also, additionally                              |
 | ijo           | noun  | thing, entity, being, matter                   |
 | oko           | noun  | eye; the white of the eyeball                  |
-| irin          | noun  | "iris"; the color the eye                      |
+| irin          | noun  | **English loanword**; the "iris", the color of the eye |
+| tajunko       | noun  | et. inside(tajun) + eye = pupil of an eye   |
 | koki          | noun  | container, drawer, chest; holder               |
 | jari          | noun  | light, bloom, sunlight                          |
 | jowari        | noun  | moonlight                                      |
@@ -144,8 +145,8 @@ Remember(!) that all nouns are transient. Meaning, they can also function as adj
 | ninko         | noun  | eleven dozen;  132                            |
 | kuko          | noun  | twelve dozen;  144                            |
 | ekako         | noun  | the number 1728.                              |
-| inkuwanto     | noun  | phonetic transcription of "England".          |
-| ewinasu       | noun  | phonetic transcription of "Έλληνας" (Greece)  |
+| inkuwan      | noun  | phonetic transcription of "England".          |
+| ewinan       | noun  | phonetic transcription of "Έλληνας" (Greece)  |
 ## The Vowel System
 This tokiponedo has five vowels, each with a distinct pronunciation:
 |  Vowels | IPA Representation |
