@@ -6,7 +6,7 @@ This tokiponedo is an analytic, moderately agglutinative and action-oriented lan
 
 I want to give credit to jan Juli (kili pan Juli). A great inspiration for the structure of this document was the short tutorial `nasin toki: mi toki pona` at https://github.com/kilipan/nasin-toki. If you want to learn toki pona, or compare this tokiponedo to toki pona. I highly suggest using their document.
 
-## Lexicon (133 in total; 30 verbs and 103 nouns)
+## Lexicon (137 in total; 30 verbs and 107 nouns)
 Remember(!) that all nouns are transient. Meaning, they can also function as adjectives.
 | Words         | Type  | Definition                                      |
 |---------------|-------|-------------------------------------------------
